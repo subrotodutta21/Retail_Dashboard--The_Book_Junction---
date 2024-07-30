@@ -1,14 +1,16 @@
 # The Book Junction - Sales-Dashboard
+
 ![image](https://github.com/user-attachments/assets/17317264-d5d7-42e9-813c-e17140842249)
 
 ## Project Overview
 
 The Book Junction Sales Dashboard provides a comprehensive analysis of the bookstore franchise performance, highlighting key metrics such as total revenue, total orders, average monthly revenue, and average sales per day. The dashboard presents insights into monthly revenue trends, regional revenue distribution, sales by weekday, order distribution by genre, and sales distribution by rating.
 
-## Datasets Used - 
+## Dataset Used
 
+- [Book Store Dataset](https://www.kaggle.com/datasets/sbonelondhlazi/bookstore-dataset)
 
-## Metrics - 
+## Metrics  
 
 - Total Revenue: Displays the overall revenue generated.
 - Total Orders: Shows the total number of orders placed.
@@ -21,16 +23,19 @@ The Book Junction Sales Dashboard provides a comprehensive analysis of the books
 - Sales by Weekday: Bar chart presenting sales performance across different days of the week.
 -  Sales Distribution by Rating: Pie chart summarizing sales distribution based on customer ratings.
 
-## Slicer Filters - 
+## Slicer Filters 
 
 - Month: Filter the dashboard to show data for a selected month
+- 
 ![image](https://github.com/user-attachments/assets/c922da2a-0095-4697-9944-03bb0a74c486)
 
 - Region: Filter the dashboard to display data for a specific store region
+
 ![image](https://github.com/user-attachments/assets/710715aa-58a6-4e12-b56d-1e43057d02b2)
+
 ![image](https://github.com/user-attachments/assets/560ff975-43af-4438-932c-a303c4008f2b)
 
-## Tools used -
+## Tools used 
 
 - Ms Excel
   - Power query
