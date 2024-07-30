@@ -28,7 +28,7 @@ The Book Junction Sales Dashboard provides a comprehensive analysis of the books
 - Month: Filter the dashboard to show data for a selected month
 <br>
 
-![image](https://github.com/user-attachments/assets/3bf41e75-e4ca-403a-b00f-848a50ede2d9)
+![image](https://github.com/user-attachments/assets/bfd6ec65-25a1-441e-81da-7eb7bc943fc7)
 <br>
 <br>
 <br>
@@ -36,7 +36,7 @@ The Book Junction Sales Dashboard provides a comprehensive analysis of the books
 - Region: Filter the dashboard to display data for a specific store region
 <br>
 
-![image](https://github.com/user-attachments/assets/ac1c01b5-57fe-474a-b5ab-ae0a8460f44f)
+![image](https://github.com/user-attachments/assets/627b6081-9b07-47a9-b354-761ac6846c7e)
 <br>
 <br>
 
