@@ -26,20 +26,17 @@ The Book Junction Sales Dashboard provides a comprehensive analysis of the books
 ## Slicer Filters 
 
 - Month: Filter the dashboard to show data for a selected month
-<br>
- 
-![image](https://github.com/user-attachments/assets/c922da2a-0095-4697-9944-03bb0a74c486)
+<br> 
+![image](https://github.com/user-attachments/assets/3bf41e75-e4ca-403a-b00f-848a50ede2d9)
 <br>
 <br>
 <br>
 - Region: Filter the dashboard to display data for a specific store region
 <br>
-
-![image](https://github.com/user-attachments/assets/710715aa-58a6-4e12-b56d-1e43057d02b2)
+![image](https://github.com/user-attachments/assets/ac1c01b5-57fe-474a-b5ab-ae0a8460f44f)
 <br>
 <br>
-
-![image](https://github.com/user-attachments/assets/560ff975-43af-4438-932c-a303c4008f2b)
+![image](https://github.com/user-attachments/assets/b26c7774-e8f1-4c7a-98a7-c6dd9f8326fd)
 
 ## Tools used 
 
