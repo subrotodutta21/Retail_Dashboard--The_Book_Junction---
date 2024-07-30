@@ -42,7 +42,7 @@ The Book Junction Sales Dashboard provides a comprehensive analysis of the books
 <br>
 
 - Cross Filter: Using both slicers to filter the dashboard by region and month.
-- <br>
+<br>
 
 ![image](https://github.com/user-attachments/assets/b26c7774-e8f1-4c7a-98a7-c6dd9f8326fd)
 
