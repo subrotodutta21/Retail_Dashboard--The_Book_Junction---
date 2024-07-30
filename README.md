@@ -1,7 +1,6 @@
 # The Book Junction - Sales Dashboard
 
-![image](https://github.com/user-attachments/assets/630ce03e-db19-4f9e-87bc-e49f8e9403b3)
-
+![image](https://github.com/user-attachments/assets/b60c12e9-8015-43bd-8f90-9b02f5160094)
 
 ## Project Overview
 
