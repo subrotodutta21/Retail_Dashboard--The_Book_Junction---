@@ -1,0 +1,1001 @@
+Transaction_id,Transaction_date,Store_region,Title,Book_category,Star_rating,Price,Stock,Quantity
+1,01-01-2023,Pune,A Light in the Attic,Poetry,Three,776.55,In stock,12
+2,01-01-2023,Pune,Tipping the Velvet,Historical Fiction,Five,806.1,Out of stock,25
+3,01-01-2023,Ahmedabad,Soumission,Fiction,Five,751.5,Out of stock,21
+4,01-01-2023,Kochi,Sharp Objects,Mystery,Four,717.3,In stock,32
+5,01-01-2023,Delhi,Sapiens: A Brief History of Humankind,History,Five,813.45,Out of stock,16
+6,02-01-2023,Delhi,The Requiem Red,Young Adult,One,339.75,In stock,28
+7,03-01-2023,Delhi,The Dirty Little Secrets of Getting Your Dream Job,Business,Four,500.1,In stock,13
+8,04-01-2023,Guwahati,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Philosophy,Three,268.95,In stock,23
+9,04-01-2023,Pune,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Philosophy,Four,339,Out of stock,39
+10,04-01-2023,Ahmedabad,The Black Maria,Poetry,Five,782.25,In stock,35
+11,05-01-2023,Delhi,"Starving Hearts (Triangular Trade Trilogy, #1)",Philosophy,Two,209.85,Out of stock,16
+12,05-01-2023,Pune,Shakespeare's Sonnets,Poetry,Four,309.9,In stock,47
+13,05-01-2023,Guwahati,Set Me Free,Young Adult,Five,261.9,Out of stock,19
+14,05-01-2023,Guwahati,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sequential Art,Five,784.35,In stock,30
+15,05-01-2023,Guwahati,Rip it Up and Start Again,Music,Five,525.3,In stock,23
+16,05-01-2023,Pune,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Music,Three,858.75,In stock,45
+17,06-01-2023,Delhi,Olio,Poetry,One,358.2,Out of stock,38
+18,06-01-2023,Guwahati,Mesaerion: The Best Science Fiction Stories 1800-1849,Science Fiction,One,563.85,In stock,16
+19,07-01-2023,Pune,Libertarianism for Beginners,Politics,Two,769.95,Out of stock,32
+20,08-01-2023,Guwahati,It's Only the Himalayas,Travel,Two,677.55,Out of stock,19
+21,08-01-2023,Ahmedabad,In Her Wake,Thriller,One,192.6,Out of stock,22
+22,08-01-2023,Kochi,How Music Works,Music,Two,559.8,In stock,43
+23,09-01-2023,Guwahati,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Food and Drink,Three,457.8,In stock,23
+24,09-01-2023,Guwahati,Chase Me (Paris Nights #2),Romance,Five,379.05,In stock,30
+25,10-01-2023,Pune,Black Dust,Romance,Five,517.95,In stock,47
+26,10-01-2023,Pune,Birdsong: A Story in Pictures,Childrens,Three,819.6,Out of stock,24
+27,10-01-2023,Guwahati,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Philosophy,Three,337.5,In stock,23
+28,11-01-2023,Guwahati,Aladdin and His Wonderful Lamp,Philosophy,Three,796.95,Out of stock,33
+29,11-01-2023,Guwahati,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,Nonfiction,Five,604.5,In stock,20
+30,11-01-2023,Guwahati,Wall and Piece,Art,Four,662.7,In stock,26
+31,11-01-2023,Delhi,The Four Agreements: A Practical Guide to Personal Freedom,Spirituality,Five,264.9,Out of stock,42
+32,12-01-2023,Ahmedabad,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Nonfiction,Three,465.75,In stock,41
+33,12-01-2023,Kochi,The Elephant Tree,Thriller,Five,357.3,In stock,35
+34,13-01-2023,Guwahati,The Bear and the Piano,Childrens,Five,553.35,Out of stock,35
+35,13-01-2023,Delhi,Sophie's World,Philosophy,Five,239.1,Out of stock,34
+36,14-01-2023,Guwahati,Penny Maybe,Philosophy,Three,499.35,Out of stock,12
+37,14-01-2023,Kochi,Maude (1883-1993):She Grew Up with the country,Philosophy,Two,270.3,Out of stock,14
+38,15-01-2023,Kochi,"In a Dark, Dark Wood",Mystery,One,294.45,In stock,31
+39,15-01-2023,Guwahati,Behind Closed Doors,Thriller,Four,783.3,Out of stock,30
+40,15-01-2023,Pune,You can't bury them all: Poems,Poetry,Two,504.45,Out of stock,11
+41,16-01-2023,Guwahati,Slow States of Collapse: Poems,Poetry,Three,859.65,In stock,32
+42,16-01-2023,Guwahati,Reasons to Stay Alive,Nonfiction,Two,396.15,Out of stock,41
+43,16-01-2023,Ahmedabad,Private Paris (Private #10),Fiction,Five,714.15,Out of stock,10
+44,16-01-2023,Ahmedabad,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,Nonfiction,Five,346.65,In stock,48
+45,17-01-2023,Delhi,Without Borders (Wanderlove #1),New Adult,Two,676.05,In stock,17
+46,17-01-2023,Ahmedabad,When We Collided,Contemporary,One,476.55,In stock,20
+47,18-01-2023,Guwahati,"We Love You, Charlie Freeman",Fiction,Five,754.05,Out of stock,18
+48,18-01-2023,Kochi,Untitled Collection: Sabbath Poems 2014,Poetry,Four,214.05,In stock,11
+49,18-01-2023,Delhi,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Nonfiction,Four,662.7,Out of stock,48
+50,18-01-2023,Guwahati,Unicorn Tracks,Fantasy,Three,281.7,Out of stock,37
+51,18-01-2023,Guwahati,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",History,One,382.8,In stock,20
+52,18-01-2023,Guwahati,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),Sequential Art,One,244.2,In stock,41
+53,18-01-2023,Guwahati,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,Nonfiction,Three,466.8,In stock,50
+54,19-01-2023,Kochi,This One Summer,Sequential Art,Four,292.35,Out of stock,40
+55,19-01-2023,Delhi,Thirst,Fiction,Five,259.05,In stock,21
+56,19-01-2023,Ahmedabad,The Torch Is Passed: A Harding Family Story,Thriller,One,286.35,Out of stock,50
+57,20-01-2023,Guwahati,The Secret of Dreadwillow Carse,Childrens,One,841.95,Out of stock,47
+58,20-01-2023,Guwahati,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Food and Drink,One,846.15,In stock,25
+59,20-01-2023,Guwahati,The Past Never Ends,Mystery,Four,847.5,Out of stock,31
+60,20-01-2023,Delhi,The Natural History of Us (The Fine Art of Pretending #2),Young Adult,Three,678.3,Out of stock,34
+61,21-01-2023,Guwahati,The Nameless City (The Nameless City #1),Sequential Art,Four,572.4,Out of stock,23
+62,21-01-2023,Kochi,The Murder That Never Was (Forensic Instincts #5),Fiction,Three,811.65,In stock,37
+63,21-01-2023,Kochi,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,Science,Four,644.4,Out of stock,22
+64,21-01-2023,Kochi,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",Thriller,Four,358.35,Out of stock,38
+65,23-01-2023,Delhi,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Nonfiction,Three,251.55,In stock,22
+66,24-01-2023,Guwahati,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",Philosophy,Five,308.85,In stock,43
+67,24-01-2023,Guwahati,The Gutsy Girl: Escapades for Your Life of Epic Adventure,Nonfiction,One,556.95,In stock,17
+68,24-01-2023,Guwahati,The Electric Pencil: Drawings from Inside State Hospital No. 3,Nonfiction,One,840.9,In stock,18
+69,25-01-2023,Guwahati,The Death of Humanity: and the Case for Life,Philosophy,Four,871.65,In stock,32
+70,25-01-2023,Guwahati,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",Health,Three,735.75,Out of stock,43
+71,26-01-2023,Pune,The Art Forger,Thriller,Three,611.4,In stock,23
+72,27-01-2023,Pune,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,History,One,295.95,In stock,45
+73,27-01-2023,Ahmedabad,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Spirituality,Five,483.6,In stock,38
+74,27-01-2023,Kochi,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,Nonfiction,Four,627.45,In stock,34
+75,28-01-2023,Guwahati,Soul Reader,Philosophy,Two,593.7,Out of stock,48
+76,28-01-2023,Guwahati,Security,Horror,Two,588.75,In stock,29
+77,29-01-2023,Guwahati,"Saga, Volume 6 (Saga (Collected Editions) #6)",Fantasy,Three,375.3,Out of stock,47
+78,29-01-2023,Guwahati,"Saga, Volume 5 (Saga (Collected Editions) #5)",Sequential Art,Two,765.6,In stock,38
+79,30-01-2023,Guwahati,Reskilling America: Learning to Labor in the Twenty-First Century,Nonfiction,Two,297.45,Out of stock,45
+80,30-01-2023,Ahmedabad,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",Sequential Art,Three,756,In stock,39
+81,31-01-2023,Guwahati,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",Sequential Art,Five,204.15,Out of stock,17
+82,31-01-2023,Delhi,Princess Between Worlds (Wide-Awake Princess #5),Fantasy,Five,200.1,In stock,31
+83,01-02-2023,Kochi,"Pop Gun War, Volume 1: Gift",Sequential Art,One,284.55,In stock,33
+84,01-02-2023,Pune,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",History,Two,544.2,In stock,41
+85,01-02-2023,Ahmedabad,Patience,Sequential Art,Three,152.4,Out of stock,13
+86,02-02-2023,Delhi,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",Sequential Art,Four,231.6,In stock,33
+87,02-02-2023,Pune,orange: The Complete Collection 1 (orange: The Complete Collection #1),Sequential Art,One,726.15,In stock,29
+88,02-02-2023,Pune,Online Marketing for Busy Authors: A Step-By-Step Guide,Self Help,One,695.25,Out of stock,37
+89,03-02-2023,Pune,On a Midnight Clear,Thriller,Three,211.05,Out of stock,46
+90,03-02-2023,Kochi,Obsidian (Lux #1),Young Adult,Two,222.9,In stock,13
+91,03-02-2023,Kochi,My Paris Kitchen: Recipes and Stories,Food and Drink,Two,500.55,In stock,42
+92,03-02-2023,Kochi,Masks and Shadows,Fantasy,Two,846,Out of stock,23
+93,03-02-2023,Kochi,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",Food and Drink,Four,210.3,Out of stock,31
+94,04-02-2023,Kochi,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",Sequential Art,Two,703.65,In stock,16
+95,04-02-2023,Delhi,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",Sequential Art,Three,684.15,In stock,50
+96,04-02-2023,Ahmedabad,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),Sequential Art,Two,298.8,Out of stock,37
+97,04-02-2023,Guwahati,"Layered: Baking, Building, and Styling Spectacular Cakes",Food and Drink,One,601.65,Out of stock,50
+98,04-02-2023,Ahmedabad,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),Thriller,Two,808.5,Out of stock,37
+99,05-02-2023,Delhi,Join,Science Fiction,Five,535.05,In stock,18
+100,05-02-2023,Ahmedabad,In the Country We Love: My Family Divided,Nonfiction,Four,330,In stock,39
+101,05-02-2023,Guwahati,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,Science,Five,860.4,Out of stock,49
+102,08-02-2023,Kochi,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",Sequential Art,Two,437.55,In stock,18
+103,08-02-2023,Guwahati,I am a Hero Omnibus Volume 1,Sequential Art,Three,819.45,Out of stock,50
+104,08-02-2023,Guwahati,How to Be Miserable: 40 Strategies You Already Use,Self Help,One,690.45,In stock,10
+105,08-02-2023,Guwahati,Her Backup Boyfriend (The Sorensen Family #1),Romance,One,509.55,Out of stock,43
+106,09-02-2023,Guwahati,"Giant Days, Vol. 2 (Giant Days #5-8)",Sequential Art,Two,331.65,Out of stock,49
+107,10-02-2023,Guwahati,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,Historical Fiction,Three,445.35,In stock,37
+108,10-02-2023,Guwahati,First and First (Five Boroughs #3),Romance,Four,239.55,Out of stock,47
+109,11-02-2023,Guwahati,Fifty Shades Darker (Fifty Shades #2),Romance,One,329.4,Out of stock,36
+110,11-02-2023,Delhi,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Nonfiction,Two,815.25,In stock,33
+111,12-02-2023,Guwahati,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",Religion,Two,569.55,In stock,28
+112,12-02-2023,Guwahati,Danganronpa Volume 1,Sequential Art,Four,779.85,Out of stock,24
+113,12-02-2023,Pune,Crown of Midnight (Throne of Glass #2),Fantasy,Three,649.35,In stock,11
+114,12-02-2023,Kochi,"Codename Baboushka, Volume 1: The Conclave of Death",Sequential Art,Four,550.8,Out of stock,32
+115,12-02-2023,Guwahati,Camp Midnight,Sequential Art,Four,256.2,In stock,32
+116,13-02-2023,Kochi,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,Nonfiction,Five,437.1,Out of stock,31
+117,13-02-2023,Kochi,Burning,Young Adult,Three,432.15,In stock,25
+118,13-02-2023,Guwahati,Bossypants,Philosophy,Two,741.9,In stock,21
+119,13-02-2023,Kochi,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",Sequential Art,Two,568.8,In stock,16
+120,13-02-2023,Kochi,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",Fantasy,Two,421.35,In stock,50
+121,13-02-2023,Kochi,Algorithms to Live By: The Computer Science of Human Decisions,Nonfiction,One,462.15,Out of stock,48
+122,13-02-2023,Delhi,A World of Flavor: Your Gluten Free Passport,Philosophy,One,644.25,In stock,13
+123,13-02-2023,Kochi,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",Philosophy,Three,851.4,Out of stock,16
+124,13-02-2023,Guwahati,A Murder in Time,Mystery,Five,249.6,Out of stock,16
+125,14-02-2023,Ahmedabad,A Flight of Arrows (The Pathfinders #2),Historical Fiction,Five,832.95,In stock,47
+126,14-02-2023,Kochi,A Fierce and Subtle Poison,Young Adult,Four,421.95,In stock,31
+127,14-02-2023,Kochi,A Court of Thorns and Roses (A Court of Thorns and Roses #1),Fantasy,Five,785.55,In stock,24
+128,14-02-2023,Kochi,(Un)Qualified: How God Uses Broken People to Do Big Things,Christian,Five,810,Out of stock,28
+129,14-02-2023,Kochi,You Are What You Love: The Spiritual Power of Habit,Religion,Four,328.05,In stock,42
+130,15-02-2023,Pune,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",Science Fiction,Three,649.5,In stock,17
+131,15-02-2023,Guwahati,Tuesday Nights in 1980,Fiction,Four,315.6,In stock,34
+132,15-02-2023,Kochi,Tracing Numbers on a Train,Philosophy,Five,624,In stock,32
+133,15-02-2023,Guwahati,Throne of Glass (Throne of Glass #1),Fantasy,Two,526.05,Out of stock,25
+134,16-02-2023,Pune,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,History,Four,894.6,Out of stock,12
+135,16-02-2023,Kochi,Thirteen Reasons Why,Philosophy,Five,790.8,Out of stock,49
+136,16-02-2023,Guwahati,The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,Childrens,Five,871.2,Out of stock,38
+137,17-02-2023,Guwahati,The Wedding Dress,Romance,Five,361.8,In stock,32
+138,18-02-2023,Guwahati,The Vacationers,Fiction,Three,632.25,In stock,43
+139,19-02-2023,Delhi,The Third Wave: An Entrepreneurâs Vision of the Future,Business,Five,189.15,Out of stock,22
+140,19-02-2023,Guwahati,The Stranger,Philosophy,Five,261.6,In stock,48
+141,19-02-2023,Guwahati,The Shadow Hero (The Shadow Hero),Sequential Art,Two,497.1,Out of stock,37
+142,19-02-2023,Ahmedabad,The Secret (The Secret #1),Philosophy,Two,410.55,Out of stock,24
+143,20-02-2023,Guwahati,The Regional Office Is Under Attack!,Fiction,Five,770.4,In stock,44
+144,21-02-2023,Kochi,The Psychopath Test: A Journey Through the Madness Industry,Philosophy,Two,540,Out of stock,16
+145,21-02-2023,Guwahati,The Project,Science Fiction,Three,159.75,Out of stock,39
+146,22-02-2023,Guwahati,The Power of Now: A Guide to Spiritual Enlightenment,Nonfiction,Five,653.1,In stock,22
+147,22-02-2023,Kochi,The Omnivore's Dilemma: A Natural History of Four Meals,Nonfiction,Five,573.15,In stock,32
+148,22-02-2023,Guwahati,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,Food and Drink,Three,560.1,Out of stock,20
+149,23-02-2023,Guwahati,The Murder of Roger Ackroyd (Hercule Poirot #4),Mystery,Three,661.5,In stock,22
+150,23-02-2023,Guwahati,The Mistake (Off-Campus #2),New Adult,Three,649.35,Out of stock,38
+151,23-02-2023,Kochi,The Matchmaker's Playbook (Wingmen Inc. #1),New Adult,Five,837.75,In stock,44
+152,23-02-2023,Kochi,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,Food and Drink,Four,564,Out of stock,20
+153,23-02-2023,Delhi,The Long Shadow of Small Ghosts: Murder and Memory in an American City,Crime,Five,164.55,Out of stock,13
+154,24-02-2023,Kochi,The Kite Runner,Philosophy,Three,627.3,In stock,16
+155,25-02-2023,Guwahati,The House by the Lake,Historical Fiction,Five,554.25,Out of stock,38
+156,25-02-2023,Ahmedabad,The Glittering Court (The Glittering Court #1),Fantasy,Five,664.2,In stock,26
+157,26-02-2023,Kochi,The Girl on the Train,Philosophy,Five,825.3,Out of stock,17
+158,26-02-2023,Pune,The Genius of Birds,Nonfiction,Three,258.6,In stock,47
+159,27-02-2023,Ahmedabad,The Emerald Mystery,Philosophy,Two,347.25,Out of stock,38
+160,27-02-2023,Kochi,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,Food and Drink,Five,618.75,Out of stock,37
+161,27-02-2023,Guwahati,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,Philosophy,Four,480,In stock,39
+162,27-02-2023,Pune,The Artist's Way: A Spiritual Path to Higher Creativity,Nonfiction,Two,577.35,In stock,34
+163,27-02-2023,Delhi,The Art of War,Philosophy,Three,500.1,In stock,40
+164,28-02-2023,Pune,The Argonauts,Autobiography,Two,163.95,In stock,25
+165,28-02-2023,Guwahati,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,Business,Five,413.25,In stock,33
+166,28-02-2023,Guwahati,Suddenly in Love (Lake Haven #1),Romance,Five,839.85,Out of stock,28
+167,01-03-2023,Guwahati,Something More Than This,Romance,Two,243.6,In stock,21
+168,01-03-2023,Delhi,Soft Apocalypse,Science Fiction,Five,391.8,Out of stock,49
+169,01-03-2023,Delhi,So You've Been Publicly Shamed,Nonfiction,Five,183.45,Out of stock,30
+170,02-03-2023,Guwahati,Shoe Dog: A Memoir by the Creator of NIKE,Business,Four,359.85,In stock,12
+171,02-03-2023,Kochi,"Shobu Samurai, Project Aryoku (#3)",Thriller,Four,435.9,Out of stock,16
+172,02-03-2023,Pune,Secrets and Lace (Fatal Hearts #1),Philosophy,Three,304.05,In stock,12
+173,03-03-2023,Guwahati,Scarlett Epstein Hates It Here,Young Adult,Five,653.25,In stock,42
+174,03-03-2023,Pune,Romero and Juliet: A Tragic Tale of Love and Zombies,Philosophy,Five,554.1,In stock,10
+175,03-03-2023,Guwahati,Redeeming Love,Christian Fiction,Three,307.05,Out of stock,27
+176,03-03-2023,Kochi,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,Philosophy,Four,615.9,In stock,42
+177,03-03-2023,Ahmedabad,Poems That Make Grown Women Cry,Poetry,Five,212.85,Out of stock,44
+178,03-03-2023,Pune,"Nightingale, Sing",Young Adult,Five,574.2,In stock,48
+179,03-03-2023,Kochi,Night Sky with Exit Wounds,Poetry,Five,615.75,Out of stock,40
+180,03-03-2023,Delhi,Mrs. Houdini,Historical Fiction,Five,453.75,In stock,50
+181,03-03-2023,Guwahati,Modern Romance,Thriller,Four,423.9,In stock,35
+182,04-03-2023,Pune,Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1),Philosophy,Three,161.4,Out of stock,31
+183,04-03-2023,Guwahati,Louisa: The Extraordinary Life of Mrs. Adams,Biography,Four,252.75,In stock,17
+184,04-03-2023,Pune,Little Red,Childrens,Three,202.05,Out of stock,40
+185,04-03-2023,Guwahati,Library of Souls (Miss Peregrineâs Peculiar Children #3),Young Adult,Four,728.4,In stock,48
+186,05-03-2023,Guwahati,Large Print Heart of the Pride,Philosophy,Four,287.25,In stock,40
+187,05-03-2023,Guwahati,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,Womens Fiction,Three,860.4,In stock,18
+188,05-03-2023,Guwahati,Hollow City (Miss Peregrineâs Peculiar Children #2),Fantasy,Five,644.7,Out of stock,10
+189,06-03-2023,Kochi,Grumbles,Philosophy,Five,332.4,In stock,44
+190,07-03-2023,Kochi,Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,Travel,Five,741.45,Out of stock,26
+191,08-03-2023,Pune,Frostbite (Vampire Academy #2),Young Adult,Four,449.85,In stock,49
+192,08-03-2023,Guwahati,Follow You Home,Horror,Three,320.4,In stock,50
+193,09-03-2023,Guwahati,First Steps for New Christians (Print Edition),Philosophy,Three,435,In stock,46
+194,09-03-2023,Pune,Finders Keepers (Bill Hodges Trilogy #2),Fiction,Five,802.95,Out of stock,38
+195,09-03-2023,Guwahati,"Fables, Vol. 1: Legends in Exile (Fables #1)",Sequential Art,Five,624.3,In stock,13
+196,09-03-2023,Kochi,Eureka Trivia 6.0,Philosophy,Four,818.85,In stock,38
+197,09-03-2023,Kochi,Drive: The Surprising Truth About What Motivates Us,Philosophy,Two,524.25,In stock,25
+198,09-03-2023,Kochi,Done Rubbed Out (Reightman & Bailey #1),Philosophy,Two,565.8,Out of stock,40
+199,10-03-2023,Ahmedabad,Doing It Over (Most Likely To #1),Romance,Three,534.15,Out of stock,25
+200,10-03-2023,Delhi,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",Food and Drink,Two,632.4,In stock,36
+201,10-03-2023,Ahmedabad,Dark Notes,Erotica,Two,287.85,Out of stock,10
+202,10-03-2023,Kochi,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Nonfiction,Three,291.45,In stock,13
+203,11-03-2023,Guwahati,Close to You,Christian Fiction,Five,741.9,In stock,19
+204,11-03-2023,Ahmedabad,Chasing Heaven: What Dying Taught Me About Living,Spirituality,Five,567,In stock,26
+205,11-03-2023,Delhi,Big Magic: Creative Living Beyond Fear,Nonfiction,Five,462,Out of stock,20
+206,12-03-2023,Guwahati,Becoming Wise: An Inquiry into the Mystery and Art of Living,Nonfiction,Two,411.45,In stock,25
+207,12-03-2023,Guwahati,Beauty Restored (Riley Family Legacy Novellas #3),Philosophy,Three,166.65,Out of stock,30
+208,12-03-2023,Guwahati,Batman: The Long Halloween (Batman),Sequential Art,Four,547.5,Out of stock,18
+209,12-03-2023,Ahmedabad,Batman: The Dark Knight Returns (Batman),Sequential Art,Five,230.7,In stock,26
+210,12-03-2023,Kochi,Ayumi's Violin,Philosophy,Five,232.2,Out of stock,20
+211,13-03-2023,Guwahati,Anonymous,Philosophy,Three,702.3,In stock,35
+212,13-03-2023,Guwahati,Amy Meets the Saints and Sages,Philosophy,Two,276.9,In stock,22
+213,13-03-2023,Delhi,Amid the Chaos,Cultural,Two,548.7,Out of stock,21
+214,14-03-2023,Ahmedabad,Amatus,Philosophy,Two,758.1,In stock,31
+215,14-03-2023,Delhi,Agnostic: A Spirited Manifesto,Nonfiction,Four,187.65,In stock,33
+216,15-03-2023,Delhi,Zealot: The Life and Times of Jesus of Nazareth,History,Two,370.5,In stock,31
+217,15-03-2023,Kochi,You (You #1),Thriller,Three,654.15,In stock,12
+218,15-03-2023,Ahmedabad,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",Sequential Art,Two,560.1,Out of stock,45
+219,15-03-2023,Ahmedabad,Wild Swans,Young Adult,Five,215.4,Out of stock,30
+220,15-03-2023,Delhi,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,Politics,Two,789.75,Out of stock,22
+221,16-03-2023,Kochi,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,Nonfiction,Five,573,Out of stock,13
+222,16-03-2023,Guwahati,What's It Like in Space?: Stories from Astronauts Who've Been There,Nonfiction,Four,294,In stock,34
+223,16-03-2023,Guwahati,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",Sequential Art,Five,808.5,Out of stock,15
+224,16-03-2023,Ahmedabad,Walt Disney's Alice in Wonderland,Childrens,Two,194.4,Out of stock,33
+225,16-03-2023,Kochi,V for Vendetta (V for Vendetta Complete),Philosophy,Three,556.5,Out of stock,22
+226,16-03-2023,Delhi,Until Friday Night (The Field Party #1),Young Adult,Five,694.65,In stock,23
+227,17-03-2023,Delhi,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Philosophy,Five,689.25,In stock,21
+228,17-03-2023,Kochi,Twenty Yawns,Childrens,Two,331.2,In stock,41
+229,18-03-2023,Ahmedabad,Through the Woods,Sequential Art,Three,380.7,Out of stock,37
+230,18-03-2023,Kochi,This Is Where It Ends,Young Adult,Four,406.8,In stock,15
+231,18-03-2023,Guwahati,The Year of Magical Thinking,Nonfiction,Five,645.6,Out of stock,11
+232,18-03-2023,Kochi,The Wright Brothers,Philosophy,Two,852,Out of stock,25
+233,18-03-2023,Guwahati,The White Queen (The Cousins' War #1),Thriller,Two,388.65,In stock,47
+234,19-03-2023,Kochi,The Wedding Pact (The O'Malleys #2),Romance,Four,489.15,Out of stock,34
+235,19-03-2023,Guwahati,The Time Keeper,Fiction,Three,418.2,Out of stock,23
+236,20-03-2023,Guwahati,The Testament of Mary,Fiction,Four,790.05,In stock,36
+237,21-03-2023,Pune,The Star-Touched Queen,Fantasy,Four,690.3,Out of stock,30
+238,21-03-2023,Delhi,The Songs of the Gods,Philosophy,Five,667.2,In stock,20
+239,21-03-2023,Delhi,The Song of Achilles,Thriller,Three,561,Out of stock,25
+240,22-03-2023,Kochi,The Rosie Project (Don Tillman #1),Philosophy,Two,810.6,In stock,35
+241,22-03-2023,Guwahati,The Power of Habit: Why We Do What We Do in Life and Business,Philosophy,Two,253.2,In stock,37
+242,22-03-2023,Guwahati,The Marriage of Opposites,Historical Fiction,Two,421.2,Out of stock,24
+243,22-03-2023,Delhi,The Lucifer Effect: Understanding How Good People Turn Evil,Psychology,Five,156,In stock,12
+244,23-03-2023,Delhi,The Long Haul (Diary of a Wimpy Kid #9),Humor,Five,661.05,In stock,14
+245,24-03-2023,Guwahati,The Loney,Horror,Five,351,In stock,42
+246,26-03-2023,Pune,The Literature Book (Big Ideas Simply Explained),Nonfiction,Five,261.45,In stock,36
+247,26-03-2023,Guwahati,The Last Mile (Amos Decker #2),Mystery,Five,813.15,Out of stock,35
+248,26-03-2023,Delhi,The Immortal Life of Henrietta Lacks,Thriller,Four,610.05,In stock,11
+249,26-03-2023,Guwahati,The Hidden Oracle (The Trials of Apollo #1),Fantasy,Five,783.9,In stock,39
+250,27-03-2023,Ahmedabad,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,Food and Drink,Five,431.55,Out of stock,38
+251,27-03-2023,Ahmedabad,The Guilty (Will Robie #4),Thriller,Four,207.3,Out of stock,33
+252,27-03-2023,Kochi,The First Hostage (J.B. Collins #2),Fiction,Four,387.75,Out of stock,30
+253,28-03-2023,Guwahati,The Dovekeepers,Thriller,Two,731.7,Out of stock,20
+254,28-03-2023,Guwahati,The Darkest Lie,Young Adult,Three,530.25,Out of stock,15
+255,29-03-2023,Delhi,The Bane Chronicles (The Bane Chronicles #1-11),Fantasy,Three,670.95,In stock,28
+256,30-03-2023,Ahmedabad,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts,Nonfiction,Five,236.55,In stock,24
+257,30-03-2023,Ahmedabad,The 14th Colony (Cotton Malone #11),Thriller,Five,588.6,Out of stock,27
+258,30-03-2023,Guwahati,That Darkness (Gardiner and Renner #1),Mystery,Four,208.8,Out of stock,39
+259,30-03-2023,Kochi,Tastes Like Fear (DI Marnie Rome #3),Mystery,Five,160.35,Out of stock,13
+260,30-03-2023,Guwahati,Take Me with You,Fiction,Four,678.15,In stock,30
+261,31-03-2023,Ahmedabad,Swell: A Year of Waves,Nonfiction,Five,683.7,Out of stock,25
+262,31-03-2023,Kochi,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),Sequential Art,Four,178.35,In stock,43
+263,31-03-2023,Kochi,Still Life with Bread Crumbs,Fiction,Five,396.15,In stock,19
+264,31-03-2023,Pune,Steve Jobs,Philosophy,Four,592.5,Out of stock,49
+265,31-03-2023,Kochi,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,Science,Five,671.1,In stock,19
+266,31-03-2023,Guwahati,Someone Like You (The Harrisons #2),Contemporary,Two,791.85,Out of stock,20
+267,01-04-2023,Delhi,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",Sequential Art,Five,531.45,Out of stock,19
+268,01-04-2023,Pune,Shtum,Fiction,Two,837.6,Out of stock,20
+269,01-04-2023,Ahmedabad,See America: A Celebration of Our National Parks & Treasured Sites,Travel,Two,733.05,In stock,10
+270,02-04-2023,Delhi,salt.,Poetry,Five,701.7,In stock,10
+271,03-04-2023,Delhi,Robin War,Sequential Art,Four,717.3,In stock,40
+272,04-04-2023,Ahmedabad,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",Sequential Art,Three,382.2,Out of stock,31
+273,04-04-2023,Delhi,Rain Fish,Childrens,Five,353.55,Out of stock,26
+274,04-04-2023,Guwahati,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Poetry,Two,763.35,Out of stock,40
+275,04-04-2023,Pune,Pet Sematary,Horror,Five,158.4,In stock,43
+276,04-04-2023,Kochi,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",Self Help,Four,782.25,In stock,48
+277,04-04-2023,Guwahati,Once Was a Time,Childrens,Five,274.2,In stock,36
+278,05-04-2023,Ahmedabad,Old School (Diary of a Wimpy Kid #10),Humor,Five,177.45,Out of stock,32
+279,06-04-2023,Guwahati,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,Nonfiction,Two,329.25,In stock,32
+280,06-04-2023,Delhi,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",Sequential Art,Five,575.85,Out of stock,43
+281,06-04-2023,Delhi,My Name Is Lucy Barton,Fiction,Two,623.4,In stock,30
+282,06-04-2023,Guwahati,My Mrs. Brown,Fiction,Five,367.2,Out of stock,35
+283,06-04-2023,Guwahati,My Kind of Crazy,Young Adult,Three,605.4,Out of stock,40
+284,07-04-2023,Ahmedabad,Mr. Mercedes (Bill Hodges Trilogy #1),Fiction,Five,433.5,Out of stock,48
+285,07-04-2023,Pune,More Than Music (Chasing the Dream #1),Thriller,Five,564.15,In stock,50
+286,07-04-2023,Delhi,Made to Stick: Why Some Ideas Survive and Others Die,Business,Two,582.75,Out of stock,37
+287,07-04-2023,Guwahati,Luis Paints the World,Childrens,Three,809.25,Out of stock,38
+288,07-04-2023,Guwahati,Luckiest Girl Alive,Philosophy,Two,747.45,Out of stock,43
+289,07-04-2023,Guwahati,Lowriders to the Center of the Earth (Lowriders in Space #2),Sequential Art,Four,772.65,In stock,19
+290,08-04-2023,Guwahati,Love Is a Mix Tape (Music #1),Music,Two,270.45,Out of stock,40
+291,08-04-2023,Guwahati,Looking for Lovely: Collecting the Moments that Matter,Nonfiction,Two,437.1,In stock,25
+292,08-04-2023,Kochi,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",Philosophy,Two,703.65,Out of stock,25
+293,09-04-2023,Guwahati,Let It Out: A Journey Through Journaling,Nonfiction,Three,401.85,In stock,21
+294,09-04-2023,Pune,Lady Midnight (The Dark Artifices #1),Philosophy,Five,244.2,Out of stock,46
+295,09-04-2023,Ahmedabad,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",Food and Drink,Five,293.25,Out of stock,22
+296,09-04-2023,Guwahati,Island of Dragons (Unwanteds #7),Fantasy,Five,444.75,In stock,24
+297,09-04-2023,Kochi,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,Humor,Five,389.7,Out of stock,36
+298,10-04-2023,Kochi,I Am Pilgrim (Pilgrim #1),Fiction,Five,159,Out of stock,13
+299,11-04-2023,Guwahati,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Humor,Four,221.25,Out of stock,39
+300,12-04-2023,Delhi,"Hush, Hush (Hush, Hush #1)",Philosophy,Five,705.3,Out of stock,17
+301,12-04-2023,Kochi,Hold Your Breath (Search and Rescue #1),Romance,Five,432.3,Out of stock,12
+302,12-04-2023,Pune,Hamilton: The Revolution,Nonfiction,Five,881.85,In stock,25
+303,13-04-2023,Pune,Greek Mythic History,Philosophy,Five,153.45,In stock,13
+304,13-04-2023,Guwahati,God: The Most Unpleasant Character in All Fiction,Religion,Five,450.45,Out of stock,27
+305,13-04-2023,Guwahati,Glory over Everything: Beyond The Kitchen House,Historical Fiction,Two,687.6,Out of stock,41
+306,13-04-2023,Delhi,Feathers: Displays of Brilliant Plumage,Art,Three,735.75,In stock,34
+307,14-04-2023,Pune,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",Nonfiction,Five,225.9,Out of stock,29
+308,14-04-2023,Guwahati,Every Last Word,Philosophy,Two,697.05,In stock,23
+309,15-04-2023,Pune,Eligible (The Austen Project #4),Fiction,Four,406.35,Out of stock,18
+310,15-04-2023,Kochi,El Deafo,Sequential Art,Five,864.3,In stock,25
+311,15-04-2023,Kochi,Eight Hundred Grapes,Fiction,Two,215.85,Out of stock,21
+312,16-04-2023,Guwahati,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",Nonfiction,Four,776.25,Out of stock,17
+313,16-04-2023,Delhi,"Eat Fat, Get Thin",Health,Five,811.05,In stock,23
+314,16-04-2023,Pune,Don't Get Caught,Young Adult,Five,830.25,Out of stock,30
+315,16-04-2023,Pune,Doctor Sleep (The Shining #2),Horror,Five,601.8,Out of stock,21
+316,17-04-2023,Guwahati,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),Fantasy,Five,562.65,Out of stock,32
+317,18-04-2023,Delhi,Dear Mr. Knightley,Fiction,Four,168.15,Out of stock,11
+318,18-04-2023,Guwahati,Daily Fantasy Sports,Philosophy,Four,548.7,In stock,38
+319,18-04-2023,Kochi,Crazy Love: Overwhelmed by a Relentless God,Christian,Four,715.8,Out of stock,35
+320,18-04-2023,Pune,Cometh the Hour (The Clifton Chronicles #6),Fiction,Five,375.15,In stock,44
+321,19-04-2023,Delhi,Code Name Verity (Code Name Verity #1),Thriller,Three,331.95,Out of stock,49
+322,19-04-2023,Delhi,Clockwork Angel (The Infernal Devices #1),Philosophy,Three,662.1,Out of stock,35
+323,20-04-2023,Guwahati,City of Glass (The Mortal Instruments #3),Fantasy,Five,840.3,In stock,14
+324,20-04-2023,Pune,City of Fallen Angels (The Mortal Instruments #4),Philosophy,Three,168.45,Out of stock,12
+325,21-04-2023,Guwahati,City of Bones (The Mortal Instruments #1),Philosophy,Four,649.2,In stock,42
+326,21-04-2023,Guwahati,City of Ashes (The Mortal Instruments #2),Philosophy,Two,709.05,In stock,48
+327,21-04-2023,Kochi,Cell,Thriller,Three,304.35,Out of stock,24
+328,22-04-2023,Kochi,Catching Jordan (Hundred Oaks),Young Adult,Two,762.45,Out of stock,11
+329,23-04-2023,Guwahati,"Carry On, Warrior: Thoughts on Life Unarmed",Philosophy,Two,477.75,Out of stock,34
+330,23-04-2023,Pune,Carrie,Philosophy,Two,693.45,Out of stock,30
+331,24-04-2023,Ahmedabad,Buying In: The Secret Dialogue Between What We Buy and Who We Are,Nonfiction,Five,567,In stock,37
+332,24-04-2023,Delhi,Brain on Fire: My Month of Madness,Nonfiction,Two,739.8,In stock,14
+333,24-04-2023,Delhi,Batman: Europa,Sequential Art,Four,480.15,In stock,20
+334,24-04-2023,Pune,Barefoot Contessa Back to Basics,Food and Drink,Three,420.15,In stock,47
+335,24-04-2023,Pune,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,Food and Drink,Five,759.3,Out of stock,33
+336,25-04-2023,Guwahati,Balloon Animals,Fiction,Five,255.45,Out of stock,26
+337,25-04-2023,Kochi,Art Ops Vol. 1,Sequential Art,Five,732,In stock,22
+338,25-04-2023,Pune,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),Young Adult,Three,872.1,In stock,16
+339,26-04-2023,Guwahati,Angels Walking (Angels Walking #1),Thriller,Five,513,Out of stock,35
+340,26-04-2023,Kochi,Angels & Demons (Robert Langdon #1),Philosophy,Four,772.2,Out of stock,15
+341,28-04-2023,Delhi,All the Light We Cannot See,Historical,Two,448.05,In stock,11
+342,29-04-2023,Guwahati,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",Sequential Art,Four,163.5,In stock,20
+343,29-04-2023,Ahmedabad,Abstract City,Nonfiction,Four,845.55,Out of stock,13
+344,30-04-2023,Guwahati,A Time of Torment (Charlie Parker #14),Mystery,Two,725.25,Out of stock,13
+345,30-04-2023,Kochi,A Study in Scarlet (Sherlock Holmes #1),Mystery,Five,250.95,Out of stock,33
+346,30-04-2023,Kochi,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",Thriller,Five,847.2,Out of stock,26
+347,30-04-2023,Kochi,A People's History of the United States,Thriller,Four,611.85,Out of stock,18
+348,30-04-2023,Pune,A Man Called Ove,Fiction,Two,595.8,Out of stock,36
+349,01-05-2023,Kochi,A Distant Mirror: The Calamitous 14th Century,History,Two,218.7,In stock,10
+350,01-05-2023,Guwahati,A Brush of Wings (Angels Walking #3),Thriller,Two,832.65,Out of stock,50
+351,01-05-2023,Pune,1491: New Revelations of the Americas Before Columbus,History,Two,327,In stock,41
+352,02-05-2023,Guwahati,"The Three Searches, Meaning, and the Story",Philosophy,Two,199.95,Out of stock,45
+353,02-05-2023,Guwahati,Searching for Meaning in Gailana,Fantasy,Two,580.95,Out of stock,27
+354,03-05-2023,Guwahati,Rook,Thriller,Four,567.9,In stock,18
+355,04-05-2023,Pune,My Kitchen Year: 136 Recipes That Saved My Life,Food and Drink,Five,172.95,In stock,10
+356,04-05-2023,Guwahati,13 Hours: The Inside Account of What Really Happened In Benghazi,Nonfiction,Three,405.9,In stock,39
+357,04-05-2023,Pune,Will You Won't You Want Me?,Womens Fiction,Five,207.9,In stock,25
+358,04-05-2023,Ahmedabad,Tipping Point for Planet Earth: How Close Are We to the Edge?,Science,Four,563.25,Out of stock,46
+359,05-05-2023,Ahmedabad,The Star-Touched Queen,Fantasy,Five,484.5,In stock,37
+360,05-05-2023,Guwahati,The Silent Sister (Riley MacPherson #1),Fiction,Five,694.35,Out of stock,40
+361,06-05-2023,Kochi,The Midnight Watch: A Novel of the Titanic and the Californian,Thriller,Five,393,Out of stock,40
+362,07-05-2023,Guwahati,The Lonely City: Adventures in the Art of Being Alone,Nonfiction,Five,498.9,In stock,40
+363,07-05-2023,Kochi,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,Thriller,Three,887.25,In stock,20
+364,07-05-2023,Guwahati,The Golden Condom: And Other Essays on Love Lost and Found,Psychology,Four,591.45,In stock,38
+365,07-05-2023,Ahmedabad,The Epidemic (The Program 0.6),Young Adult,Five,216.6,Out of stock,21
+366,07-05-2023,Guwahati,The Dinner Party,Fiction,Five,848.1,Out of stock,29
+367,08-05-2023,Kochi,The Diary of a Young Girl,Nonfiction,Five,898.5,Out of stock,42
+368,09-05-2023,Guwahati,The Children,Thriller,Three,178.2,In stock,40
+369,09-05-2023,Guwahati,Stars Above (The Lunar Chronicles #4.5),Young Adult,Two,720.75,Out of stock,45
+370,09-05-2023,Kochi,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,Nonfiction,Two,318.15,In stock,33
+371,10-05-2023,Guwahati,Raspberry Pi Electronics Projects for the Evil Genius,Philosophy,Two,745.05,In stock,27
+372,10-05-2023,Guwahati,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,Business,Three,647.1,In stock,21
+373,10-05-2023,Guwahati,Psycho: Sanitarium (Psycho #1.5),Horror,Two,554.55,In stock,45
+374,10-05-2023,Kochi,Poisonous (Max Revere Novels #3),Mystery,Three,402,In stock,13
+375,10-05-2023,Guwahati,One with You (Crossfire #5),Thriller,Five,235.65,Out of stock,30
+376,10-05-2023,Guwahati,No Love Allowed (Dodge Cove #1),Young Adult,Five,819.75,Out of stock,18
+377,10-05-2023,Ahmedabad,Murder at the 42nd Street Library (Raymond Ambler #1),Mystery,Four,815.4,Out of stock,38
+378,11-05-2023,Ahmedabad,Most Wanted,Mystery,Five,529.2,Out of stock,28
+379,12-05-2023,Guwahati,"Love, Lies and Spies",Historical Fiction,Five,308.25,Out of stock,28
+380,12-05-2023,Pune,How to Speak Golf: An Illustrated Guide to Links Lingo,Philosophy,Five,874.8,Out of stock,19
+381,12-05-2023,Guwahati,Hide Away (Eve Duncan #20),Mystery,Five,177.6,In stock,12
+382,13-05-2023,Guwahati,Furiously Happy: A Funny Book About Horrible Things,Nonfiction,Three,621.9,In stock,23
+383,13-05-2023,Delhi,Everyday Italian: 125 Simple and Delicious Recipes,Food and Drink,Five,301.5,In stock,14
+384,13-05-2023,Delhi,Equal Is Unfair: America's Misguided Fight Against Income Inequality,Politics,Five,852.9,In stock,15
+385,13-05-2023,Guwahati,Eleanor & Park,Philosophy,Three,847.65,Out of stock,27
+386,14-05-2023,Guwahati,Dirty (Dive Bar #1),Romance,Five,612.45,Out of stock,39
+387,16-05-2023,Guwahati,Can You Keep a Secret? (Fear Street Relaunch #4),Horror,Four,729.6,Out of stock,38
+388,16-05-2023,Pune,Boar Island (Anna Pigeon #19),Mystery,Five,892.2,Out of stock,20
+389,17-05-2023,Guwahati,A Paris Apartment,Historical Fiction,Four,585.15,In stock,43
+390,17-05-2023,Delhi,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",Food and Drink,Four,581.55,Out of stock,35
+391,19-05-2023,Guwahati,Troublemaker: Surviving Hollywood and Scientology,Philosophy,Three,725.85,In stock,44
+392,19-05-2023,Guwahati,The Widow,Mystery,Four,408.9,Out of stock,39
+393,19-05-2023,Guwahati,"The Sleep Revolution: Transforming Your Life, One Night at a Time",Nonfiction,Three,175.2,Out of stock,33
+394,19-05-2023,Guwahati,The Improbability of Love,Fiction,Two,891.75,Out of stock,25
+395,19-05-2023,Kochi,The Art of Startup Fundraising,Business,Three,315,Out of stock,47
+396,20-05-2023,Ahmedabad,Take Me Home Tonight (Rock Star Romance #3),Romance,Five,809.7,Out of stock,35
+397,20-05-2023,Kochi,Sleeping Giants (Themis Files #1),Science Fiction,Three,731.1,Out of stock,33
+398,20-05-2023,Pune,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",Biography,Three,317.25,In stock,17
+399,20-05-2023,Kochi,Playing with Fire,Mystery,Two,205.65,Out of stock,13
+400,21-05-2023,Guwahati,Off the Hook (Fishing for Trouble #1),Romance,Five,715.05,In stock,38
+401,22-05-2023,Ahmedabad,Mothering Sunday,Fiction,Two,200.1,Out of stock,34
+402,22-05-2023,Ahmedabad,"Mother, Can You Not?",Nonfiction,Two,253.35,Out of stock,36
+403,22-05-2023,Kochi,M Train,Autobiography,Five,407.7,Out of stock,49
+404,23-05-2023,Kochi,Lilac Girls,Historical Fiction,Three,259.2,Out of stock,28
+405,23-05-2023,Delhi,Lies and Other Acts of Love,Fiction,Five,677.1,In stock,20
+406,24-05-2023,Pune,Lab Girl,Autobiography,Five,612.75,In stock,44
+407,25-05-2023,Guwahati,Keep Me Posted,Womens Fiction,Two,306.9,Out of stock,41
+408,26-05-2023,Guwahati,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,Psychology,Five,844.05,In stock,50
+409,26-05-2023,Guwahati,Grey (Fifty Shades #4),Womens Fiction,Three,727.35,Out of stock,38
+410,27-05-2023,Guwahati,"Exit, Pursued by a Bear",Young Adult,Three,770.1,In stock,17
+411,27-05-2023,Delhi,Daredevils,Fiction,Two,245.1,Out of stock,12
+412,27-05-2023,Kochi,Cravings: Recipes for What You Want to Eat,Food and Drink,Five,307.5,In stock,23
+413,27-05-2023,Pune,Born for This: How to Find the Work You Were Meant to Do,Business,Five,323.85,Out of stock,19
+414,27-05-2023,Guwahati,Arena,Science Fiction,Four,320.4,In stock,46
+415,27-05-2023,Guwahati,Adultery,Philosophy,Five,313.2,Out of stock,41
+416,27-05-2023,Kochi,A Mother's Reckoning: Living in the Aftermath of Tragedy,Nonfiction,Five,292.95,In stock,39
+417,27-05-2023,Guwahati,A Gentleman's Position (Society of Gentlemen #3),Romance,Five,221.25,In stock,35
+418,27-05-2023,Kochi,11/22/63,Fiction,Five,727.2,In stock,42
+419,28-05-2023,Guwahati,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",Nonfiction,Four,368.55,In stock,32
+420,28-05-2023,Ahmedabad,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,Health,Four,745.65,In stock,38
+421,29-05-2023,Guwahati,Without Shame,Thriller,Five,724.05,In stock,32
+422,29-05-2023,Delhi,Watchmen,Thriller,Three,870.75,Out of stock,34
+423,30-05-2023,Kochi,Unlimited Intuition Now,Philosophy,Five,883.05,Out of stock,28
+424,30-05-2023,Ahmedabad,Underlying Notes,Philosophy,Three,177.3,Out of stock,39
+425,30-05-2023,Delhi,The Shack,Fiction,Five,420.45,In stock,31
+426,30-05-2023,Kochi,The New Brand You: Your New Image Makes the Sale for You,Philosophy,Five,660.75,Out of stock,43
+427,31-05-2023,Guwahati,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",Food and Drink,Three,185.1,Out of stock,32
+428,31-05-2023,Pune,The Flowers Lied,Philosophy,Three,250.2,In stock,49
+429,31-05-2023,Guwahati,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Science,Four,838.65,In stock,22
+430,31-05-2023,Guwahati,The Book of Mormon,Religion,Three,368.55,In stock,15
+431,01-06-2023,Ahmedabad,The Art and Science of Low Carbohydrate Living,Health,Three,794.7,In stock,23
+432,01-06-2023,Ahmedabad,The Alien Club,Young Adult,Five,816,In stock,47
+433,02-06-2023,Kochi,Suzie Snowflake: One beautiful flake (a self-esteem story),Novels,Four,822.15,Out of stock,36
+434,02-06-2023,Guwahati,Nap-a-Roo,Childrens,Five,376.2,Out of stock,14
+435,02-06-2023,Pune,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",Philosophy,Two,156.15,In stock,24
+436,03-06-2023,Guwahati,Modern Day Fables,Philosophy,Five,711.6,In stock,48
+437,03-06-2023,Guwahati,If I Gave You God's Phone Number....: Searching for Spirituality in America,Spirituality,Two,313.65,In stock,30
+438,03-06-2023,Delhi,"Fruits Basket, Vol. 9 (Fruits Basket #9)",Sequential Art,Five,509.25,Out of stock,11
+439,03-06-2023,Guwahati,Dress Your Family in Corduroy and Denim,Humor,Five,655.2,In stock,50
+440,04-06-2023,Guwahati,Don't Forget Steven,Young Adult,Five,498.45,Out of stock,50
+441,04-06-2023,Pune,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,Nonfiction,Two,538.8,Out of stock,25
+442,05-06-2023,Ahmedabad,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,Art,Three,729.45,In stock,37
+443,05-06-2023,Kochi,A Shard of Ice (The Black Symphony Saga #1),Fantasy,Four,849.45,Out of stock,33
+444,05-06-2023,Kochi,A Hero's Curse (The Unseen Chronicles #1),Thriller,Five,757.35,Out of stock,47
+445,06-06-2023,Ahmedabad,23 Degrees South: A Tropical Tale of Changing Whether...,Thriller,Four,536.85,In stock,22
+446,06-06-2023,Guwahati,"Zero to One: Notes on Startups, or How to Build the Future",Nonfiction,Four,510.9,In stock,29
+447,07-06-2023,Pune,Why Not Me?,Nonfiction,Five,266.4,Out of stock,37
+448,07-06-2023,Guwahati,When Breath Becomes Air,Nonfiction,Five,590.4,In stock,38
+449,08-06-2023,Kochi,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,Travel,Four,554.1,In stock,17
+450,08-06-2023,Kochi,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),Philosophy,Three,654.3,In stock,18
+451,08-06-2023,Guwahati,The New Drawing on the Right Side of the Brain,Art,Three,645.3,Out of stock,23
+452,08-06-2023,Ahmedabad,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",Nonfiction,Two,426.75,Out of stock,50
+453,09-06-2023,Ahmedabad,The Martian (The Martian #1),Philosophy,Four,620.85,In stock,27
+454,09-06-2023,Guwahati,The High Mountains of Portugal,Fiction,Five,767.25,In stock,38
+455,09-06-2023,Delhi,The Grownup,Short Stories,Two,538.2,In stock,15
+456,09-06-2023,Ahmedabad,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,Business,Five,553.65,Out of stock,40
+457,09-06-2023,Kochi,South of Sunshine,Young Adult,Five,433.95,In stock,34
+458,09-06-2023,Kochi,Smarter Faster Better: The Secrets of Being Productive in Life and Business,Nonfiction,Four,583.35,Out of stock,46
+459,10-06-2023,Guwahati,Silence in the Dark (Logan Point #4),Suspense,Four,874.95,Out of stock,22
+460,10-06-2023,Ahmedabad,Shadows of the Past (Logan Point #1),Christian Fiction,Four,595.05,Out of stock,37
+461,10-06-2023,Ahmedabad,Roller Girl,Sequential Art,Two,211.5,In stock,24
+462,10-06-2023,Pune,Rising Strong,Nonfiction,Four,327.3,Out of stock,29
+463,11-06-2023,Guwahati,Proofs of God: Classical Arguments from Tertullian to Barth,Philosophy,Five,813.15,In stock,47
+464,11-06-2023,Delhi,Please Kill Me: The Uncensored Oral History of Punk,Music,Two,467.85,In stock,44
+465,12-06-2023,Guwahati,Out of Print: City Lights Spotlight No. 14,Poetry,Five,804.6,Out of stock,15
+466,12-06-2023,Ahmedabad,My Life Next Door (My Life Next Door ),Young Adult,Five,545.85,Out of stock,10
+467,12-06-2023,Ahmedabad,Miller's Valley,Fiction,Two,878.1,Out of stock,16
+468,12-06-2023,Guwahati,Man's Search for Meaning,Nonfiction,Two,442.2,Out of stock,33
+469,12-06-2023,Guwahati,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",Nonfiction,Two,375.9,In stock,15
+470,13-06-2023,Guwahati,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,Nonfiction,Five,188.25,In stock,15
+471,13-06-2023,Kochi,Les Fleurs du Mal,Poetry,Four,435.6,In stock,38
+472,13-06-2023,Ahmedabad,Left Behind (Left Behind #1),Philosophy,Five,610.8,In stock,25
+473,13-06-2023,Guwahati,Kill 'Em and Leave: Searching for James Brown and the American Soul,Music,Four,675.75,In stock,12
+474,13-06-2023,Guwahati,Kierkegaard: A Christian Missionary to Christians,Philosophy,Four,706.95,In stock,34
+475,14-06-2023,Delhi,John Vassos: Industrial Design for Modern Life,Philosophy,Five,303.3,In stock,37
+476,15-06-2023,Guwahati,I'll Give You the Sun,Philosophy,Four,847.2,Out of stock,10
+477,15-06-2023,Ahmedabad,I Will Find You,Nonfiction,Two,663.15,In stock,25
+478,15-06-2023,Ahmedabad,Hystopia: A Novel,Fiction,Five,329.4,Out of stock,22
+479,17-06-2023,Guwahati,Howl and Other Poems,Poetry,Four,606.75,Out of stock,28
+480,17-06-2023,Ahmedabad,History of Beauty,Art,Five,154.35,Out of stock,20
+481,17-06-2023,Ahmedabad,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Philosophy,Five,792.9,Out of stock,44
+482,17-06-2023,Pune,Future Shock (Future Shock #1),Young Adult,Five,834.75,In stock,27
+483,18-06-2023,Delhi,Ender's Game (The Ender Quintet #1),Philosophy,Five,654.6,In stock,26
+484,18-06-2023,Pune,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,Science,Two,426.15,Out of stock,11
+485,18-06-2023,Ahmedabad,Death by Leisure: A Cautionary Tale,Philosophy,Four,562.65,Out of stock,22
+486,19-06-2023,Ahmedabad,Brilliant Beacons: A History of the American Lighthouse,History,Five,171.75,Out of stock,20
+487,19-06-2023,Pune,Brazen: The Courage to Find the You That's Been Hiding,Nonfiction,Five,288.3,Out of stock,37
+488,19-06-2023,Guwahati,Between the World and Me,Nonfiction,Two,853.65,In stock,21
+489,19-06-2023,Kochi,Being Mortal: Medicine and What Matters in the End,Nonfiction,Four,825.9,Out of stock,47
+490,22-06-2023,Delhi,"A Murder Over a Girl: Justice, Gender, Junior High",Nonfiction,Four,198,In stock,43
+491,22-06-2023,Delhi,32 Yolks,Food and Drink,Two,804.45,Out of stock,50
+492,22-06-2023,Kochi,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",History,Four,667.2,Out of stock,33
+493,22-06-2023,Delhi,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Self Help,Four,181.2,In stock,37
+494,22-06-2023,Guwahati,Wildlife of New York: A Five-Borough Coloring Book,Philosophy,Five,332.1,In stock,18
+495,23-06-2023,Delhi,What Happened on Beale Street (Secrets of the South Mysteries #2),Mystery,Five,380.55,In stock,10
+496,23-06-2023,Guwahati,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,Spirituality,Four,694.95,Out of stock,36
+497,24-06-2023,Guwahati,Under the Tuscan Sun,Travel,Four,559.95,In stock,44
+498,25-06-2023,Delhi,Toddlers Are A**holes: It's Not Your Fault,Humor,Four,383.25,In stock,36
+499,25-06-2023,Delhi,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,Philosophy,Four,520.8,Out of stock,42
+500,25-06-2023,Ahmedabad,The Whale,Childrens,Four,539.4,Out of stock,29
+501,26-06-2023,Ahmedabad,The Story of Art,Art,Two,617.1,Out of stock,42
+502,26-06-2023,Kochi,The Origin of Species,Science,Five,150.15,In stock,34
+503,26-06-2023,Guwahati,The Great Gatsby,Philosophy,Five,540.75,In stock,23
+504,26-06-2023,Delhi,The Good Girl,Philosophy,Four,735.45,Out of stock,46
+505,28-06-2023,Pune,The Glass Castle,Thriller,Five,243.6,Out of stock,38
+506,28-06-2023,Kochi,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,Biography,Five,593.25,In stock,33
+507,28-06-2023,Ahmedabad,The Drowning Girls,Thriller,Five,535.05,Out of stock,33
+508,28-06-2023,Guwahati,The Constant Princess (The Tudor Court #1),Historical Fiction,Four,249.3,In stock,20
+509,28-06-2023,Kochi,The Bourne Identity (Jason Bourne #1),Fiction,Five,641.7,In stock,11
+510,30-06-2023,Delhi,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),Mystery,Four,784.5,Out of stock,30
+511,30-06-2023,Delhi,The Art Book,Art,Four,485.1,In stock,24
+512,30-06-2023,Guwahati,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Philosophy,Five,497.55,Out of stock,42
+513,30-06-2023,Pune,Team of Rivals: The Political Genius of Abraham Lincoln,Thriller,Two,301.8,Out of stock,45
+514,01-07-2023,Pune,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Philosophy,Two,313.5,Out of stock,21
+515,02-07-2023,Ahmedabad,"Sit, Stay, Love",Romance,Four,313.5,In stock,16
+516,02-07-2023,Delhi,Sister Dear,Fiction,Five,603,In stock,29
+517,02-07-2023,Pune,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",Childrens,Four,793.05,Out of stock,21
+518,02-07-2023,Guwahati,"Rich Dad, Poor Dad",Business,Four,776.1,Out of stock,21
+519,03-07-2023,Pune,Raymie Nightingale,Childrens,Five,516.15,Out of stock,21
+520,03-07-2023,Guwahati,Playing from the Heart,Childrens,Two,485.7,Out of stock,18
+521,03-07-2023,Kochi,Nightstruck: A Novel,Young Adult,Four,755.25,Out of stock,46
+522,03-07-2023,Kochi,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",Food and Drink,Four,170.7,Out of stock,21
+523,04-07-2023,Ahmedabad,Meternity,Womens Fiction,Two,653.7,In stock,21
+524,04-07-2023,Kochi,Memoirs of a Geisha,Fiction,Five,745.05,Out of stock,36
+525,04-07-2023,Ahmedabad,Like Never Before (Walker Family #2),Christian Fiction,Five,431.55,Out of stock,27
+526,04-07-2023,Delhi,Life of Pi,Philosophy,Two,198.3,In stock,32
+527,04-07-2023,Ahmedabad,Leave This Song Behind: Teen Poetry at Its Best,Poetry,Five,767.55,In stock,36
+528,05-07-2023,Pune,King's Folly (The Kinsman Chronicles #1),Fantasy,Five,594.15,Out of stock,49
+529,06-07-2023,Guwahati,John Adams,Thriller,Four,861.45,In stock,33
+530,06-07-2023,Delhi,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),Food and Drink,Four,690.15,Out of stock,43
+531,06-07-2023,Delhi,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,Food and Drink,Four,423.75,In stock,27
+532,07-07-2023,Guwahati,Good in Bed (Cannie Shapiro #1),Thriller,Four,555.75,In stock,41
+533,07-07-2023,Pune,"Fruits Basket, Vol. 7 (Fruits Basket #7)",Sequential Art,Four,293.55,In stock,42
+534,07-07-2023,Guwahati,For the Love: Fighting for Grace in a World of Impossible Standards,Nonfiction,Four,676.95,In stock,13
+535,07-07-2023,Guwahati,Finding God in the Ruins: How God Redeems Pain,Nonfiction,Five,699.6,In stock,28
+536,07-07-2023,Guwahati,Every Heart a Doorway (Every Heart A Doorway #1),Fantasy,Four,182.4,In stock,10
+537,08-07-2023,Ahmedabad,Delivering the Truth (Quaker Midwife Mystery #1),Mystery,Five,313.35,Out of stock,29
+538,08-07-2023,Guwahati,Counted With the Stars (Out from Egypt #1),Christian Fiction,Four,269.55,In stock,44
+539,08-07-2023,Ahmedabad,"Chronicles, Vol. 1",Music,Five,789,Out of stock,31
+540,09-07-2023,Ahmedabad,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Christian,Four,386.55,Out of stock,13
+541,09-07-2023,Guwahati,Benjamin Franklin: An American Life,Biography,Two,722.85,Out of stock,10
+542,09-07-2023,Kochi,"At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",Philosophy,Five,448.95,Out of stock,32
+543,10-07-2023,Guwahati,A Summer In Europe,Travel,Five,665.1,In stock,23
+544,11-07-2023,Ahmedabad,A Short History of Nearly Everything,History,Four,786,Out of stock,34
+545,11-07-2023,Ahmedabad,A Gathering of Shadows (Shades of Magic #2),Fantasy,Four,672.15,Out of stock,19
+546,12-07-2023,Kochi,The Sound Of Love,Philosophy,Two,867.6,In stock,13
+547,12-07-2023,Kochi,The Rise and Fall of the Third Reich: A History of Nazi Germany,History,Five,595.05,Out of stock,16
+548,13-07-2023,Ahmedabad,The Perks of Being a Wallflower,Philosophy,Five,825.3,Out of stock,50
+549,13-07-2023,Ahmedabad,The Mysterious Affair at Styles (Hercule Poirot #1),Mystery,Four,372,In stock,31
+550,14-07-2023,Delhi,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Nonfiction,Two,891.75,Out of stock,24
+551,14-07-2023,Guwahati,The Makings of a Fatherless Child,Philosophy,Five,473.7,In stock,41
+552,15-07-2023,Guwahati,The Joy of Cooking,Thriller,Four,649.05,In stock,33
+553,15-07-2023,Guwahati,The Invention of Wings,Historical Fiction,Five,560.1,Out of stock,18
+554,15-07-2023,Kochi,The Hobbit (Middle-Earth Universe),Philosophy,Five,267,Out of stock,10
+555,16-07-2023,Pune,The Great Railway Bazaar,Travel,Five,458.1,In stock,10
+556,17-07-2023,Guwahati,The Golden Compass (His Dark Materials #1),Thriller,Five,281.55,Out of stock,22
+557,17-07-2023,Guwahati,The God Delusion,Thriller,Four,702.75,Out of stock,31
+558,17-07-2023,Pune,The Girl You Left Behind (The Girl You Left Behind #1),Historical,Two,236.85,Out of stock,44
+559,17-07-2023,Delhi,The Fellowship of the Ring (The Lord of the Rings #1),Philosophy,Five,154.05,In stock,23
+560,18-07-2023,Ahmedabad,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),Poetry,Four,231.3,Out of stock,19
+561,18-07-2023,Guwahati,The Barefoot Contessa Cookbook,Food and Drink,Four,898.8,Out of stock,30
+562,18-07-2023,Delhi,Tell the Wolves I'm Home,Young Adult,Five,764.4,In stock,18
+563,19-07-2023,Kochi,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,Philosophy,Two,459,Out of stock,36
+564,19-07-2023,Kochi,Pride and Prejudice,Thriller,Four,289.05,In stock,46
+565,19-07-2023,Pune,Musicophilia: Tales of Music and the Brain,Philosophy,Four,698.7,Out of stock,22
+566,19-07-2023,Delhi,Mere Christianity,Thriller,Four,727.65,Out of stock,37
+567,19-07-2023,Guwahati,Me Before You (Me Before You #1),Fiction,Two,285.3,Out of stock,19
+568,21-07-2023,Kochi,In the Woods (Dublin Murder Squad #1),Mystery,Four,575.7,Out of stock,17
+569,21-07-2023,Guwahati,In Cold Blood,Nonfiction,Five,749.7,In stock,17
+570,21-07-2023,Pune,How to Stop Worrying and Start Living,Self Help,Two,697.35,In stock,21
+571,21-07-2023,Guwahati,Give It Back,Thriller,Two,274.8,Out of stock,46
+572,22-07-2023,Kochi,"Girl, Interrupted",Nonfiction,Five,632.1,In stock,28
+573,22-07-2023,Kochi,Fun Home: A Family Tragicomic,Thriller,Four,848.85,In stock,16
+574,23-07-2023,Delhi,"Fruits Basket, Vol. 6 (Fruits Basket #6)",Sequential Art,Four,314.4,In stock,41
+575,24-07-2023,Kochi,Deception Point,Fiction,Two,604.8,In stock,24
+576,24-07-2023,Delhi,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",Sequential Art,Five,545.85,In stock,49
+577,26-07-2023,Delhi,Catherine the Great: Portrait of a Woman,History,Five,878.25,Out of stock,10
+578,26-07-2023,Ahmedabad,Better Homes and Gardens New Cook Book,Food and Drink,Five,594.15,In stock,18
+579,27-07-2023,Kochi,An Unquiet Mind: A Memoir of Moods and Madness,Psychology,Five,319.5,In stock,38
+580,27-07-2023,Guwahati,A Year in Provence (Provence #1),Travel,Five,853.2,Out of stock,15
+581,28-07-2023,Guwahati,World Without End (The Pillars of the Earth #2),Historical Fiction,Four,494.55,In stock,30
+582,28-07-2023,Kochi,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",Young Adult,Five,709.65,Out of stock,12
+583,30-07-2023,Guwahati,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,Nonfiction,Five,730.05,In stock,27
+584,30-07-2023,Kochi,Where She Went (If I Stay #2),Young Adult,Four,625.95,Out of stock,17
+585,30-07-2023,Delhi,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Philosophy,Five,805.2,Out of stock,36
+586,31-07-2023,Delhi,Two Summers,Young Adult,Four,219.6,Out of stock,35
+587,31-07-2023,Kochi,This Is Your Brain on Music: The Science of a Human Obsession,Music,Five,576,In stock,47
+588,31-07-2023,Guwahati,The Secret Garden,Classics,Five,226.2,In stock,14
+589,01-08-2023,Pune,The Raven King (The Raven Cycle #4),Thriller,Two,458.55,Out of stock,12
+590,01-08-2023,Kochi,The Raven Boys (The Raven Cycle #1),Fantasy,Four,866.1,In stock,46
+591,01-08-2023,Guwahati,The Power Greens Cookbook: 140 Delicious Superfood Recipes,Food and Drink,Two,165.75,In stock,43
+592,01-08-2023,Delhi,The Metamorphosis,Classics,Four,428.7,In stock,17
+593,02-08-2023,Kochi,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,History,Five,643.65,In stock,13
+594,04-08-2023,Pune,The Little Paris Bookshop,Fiction,Two,370.95,Out of stock,47
+595,06-08-2023,Delhi,The Hiding Place,History,Five,838.65,Out of stock,13
+596,06-08-2023,Kochi,The Grand Design,Science,Five,206.4,In stock,19
+597,06-08-2023,Pune,The Firm,Fiction,Four,683.4,Out of stock,26
+598,06-08-2023,Guwahati,The Fault in Our Stars,Philosophy,Five,708.3,In stock,29
+599,06-08-2023,Guwahati,The False Prince (The Ascendance Trilogy #1),Fantasy,Five,840,In stock,44
+600,07-08-2023,Kochi,The Expatriates,Fiction,Four,668.7,Out of stock,24
+601,07-08-2023,Kochi,The Dream Thieves (The Raven Cycle #2),Philosophy,Two,517.5,Out of stock,50
+602,08-08-2023,Guwahati,The Darkest Corners,Young Adult,Four,169.95,Out of stock,42
+603,08-08-2023,Guwahati,The Crossover,Poetry,Two,581.55,Out of stock,33
+604,08-08-2023,Guwahati,The 5th Wave (The 5th Wave #1),Philosophy,Five,177.45,Out of stock,23
+605,09-08-2023,Guwahati,Tell the Wind and Fire,Fantasy,Five,682.65,In stock,32
+606,09-08-2023,Guwahati,Tell Me Three Things,Young Adult,Five,627.15,Out of stock,44
+607,09-08-2023,Delhi,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,Nonfiction,Four,377.25,In stock,27
+608,09-08-2023,Guwahati,Siddhartha,Fiction,Four,513.3,In stock,21
+609,11-08-2023,Guwahati,Shiver (The Wolves of Mercy Falls #1),Philosophy,Two,243.45,In stock,26
+610,11-08-2023,Pune,Remember Me?,Philosophy,Four,172.2,Out of stock,38
+611,12-08-2023,Pune,Red Dragon (Hannibal Lecter #1),Horror,Four,350.55,In stock,35
+612,12-08-2023,Delhi,Peak: Secrets from the New Science of Expertise,Science,Three,244.2,Out of stock,43
+613,12-08-2023,Guwahati,My Mother Was Nuts,Nonfiction,Two,474.45,In stock,36
+614,13-08-2023,Ahmedabad,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,Food and Drink,Five,373.65,In stock,23
+615,13-08-2023,Ahmedabad,Maybe Something Beautiful: How Art Transformed a Neighborhood,Childrens,Three,338.1,Out of stock,17
+616,13-08-2023,Kochi,Lola and the Boy Next Door (Anna and the French Kiss #2),Young Adult,Two,354.45,In stock,40
+617,13-08-2023,Ahmedabad,Logan Kade (Fallen Crest High #5.5),Academic,Five,196.8,Out of stock,11
+618,15-08-2023,Ahmedabad,Last One Home (New Beginnings #1),Fiction,Two,899.7,In stock,21
+619,15-08-2023,Guwahati,Killing Floor (Jack Reacher #1),Thriller,Three,472.35,In stock,10
+620,15-08-2023,Guwahati,Kill the Boy Band,Young Adult,Five,232.8,In stock,42
+621,16-08-2023,Kochi,Isla and the Happily Ever After (Anna and the French Kiss #3),Young Adult,Five,721.95,Out of stock,27
+622,16-08-2023,Delhi,If I Stay (If I Stay #1),Philosophy,Four,571.95,In stock,27
+623,16-08-2023,Guwahati,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),Philosophy,Four,548.25,In stock,35
+624,17-08-2023,Guwahati,Harry Potter and the Deathly Hallows (Harry Potter #7),Philosophy,Four,349.8,In stock,19
+625,17-08-2023,Delhi,"Fruits Basket, Vol. 5 (Fruits Basket #5)",Sequential Art,Four,244.95,Out of stock,30
+626,18-08-2023,Guwahati,Foundation (Foundation (Publication Order) #1),Science Fiction,Three,486.3,In stock,40
+627,19-08-2023,Pune,Fool Me Once,Philosophy,Five,254.4,In stock,18
+628,19-08-2023,Guwahati,Find Her (Detective D.D. Warren #8),Thriller,Five,335.55,In stock,16
+629,20-08-2023,Guwahati,Evicted: Poverty and Profit in the American City,Thriller,Three,634.05,Out of stock,33
+630,20-08-2023,Guwahati,Drama,Philosophy,Three,580.5,In stock,12
+631,20-08-2023,Pune,Dracula the Un-Dead,Horror,Four,534.45,In stock,15
+632,20-08-2023,Guwahati,Digital Fortress,Fiction,Five,870,In stock,10
+633,21-08-2023,Delhi,"Death Note, Vol. 5: Whiteout (Death Note #5)",Sequential Art,Two,786.15,Out of stock,50
+634,21-08-2023,Guwahati,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",Nonfiction,Four,485.25,Out of stock,41
+635,21-08-2023,Ahmedabad,Critique of Pure Reason,Philosophy,Five,311.25,In stock,38
+636,21-08-2023,Delhi,Booked,Poetry,Two,262.35,In stock,23
+637,22-08-2023,Kochi,"Blue Lily, Lily Blue (The Raven Cycle #3)",Philosophy,Three,511.95,In stock,50
+638,22-08-2023,Delhi,Approval Junkie: Adventures in Caring Too Much,Autobiography,Four,882.15,In stock,49
+639,22-08-2023,Pune,An Abundance of Katherines,Young Adult,Three,150,Out of stock,30
+640,23-08-2023,Kochi,America's War for the Greater Middle East: A Military History,History,Five,768.3,Out of stock,17
+641,24-08-2023,Guwahati,Alight (The Generations Trilogy #2),Philosophy,Two,878.85,In stock,50
+642,24-08-2023,Kochi,A Girl's Guide to Moving On (New Beginnings #2),Romance,Five,469.5,Out of stock,19
+643,24-08-2023,Delhi,A Game of Thrones (A Song of Ice and Fire #1),Thriller,Four,696.3,Out of stock,13
+644,25-08-2023,Ahmedabad,A Feast for Crows (A Song of Ice and Fire #4),Fantasy,Five,258.15,In stock,37
+645,25-08-2023,Delhi,A Clash of Kings (A Song of Ice and Fire #2),Thriller,Three,161.85,In stock,23
+646,25-08-2023,Delhi,Vogue Colors A to Z: A Fashion Coloring Book,Philosophy,Three,785.25,Out of stock,25
+647,26-08-2023,Kochi,The Shining (The Shining #1),Philosophy,Two,418.2,Out of stock,12
+648,26-08-2023,Kochi,The Pilgrim's Progress,Classics,Four,753.9,In stock,10
+649,26-08-2023,Guwahati,The Perfect Play (Play by Play #1),Romance,Five,899.85,Out of stock,31
+650,27-08-2023,Guwahati,The Passion of Dolssa,Historical Fiction,Five,424.8,In stock,19
+651,28-08-2023,Kochi,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,Nonfiction,Four,580.65,In stock,17
+652,28-08-2023,Guwahati,The Hunger Games (The Hunger Games #1),Philosophy,Four,447.75,In stock,13
+653,29-08-2023,Kochi,The Hound of the Baskervilles (Sherlock Holmes #5),Classics,Two,222.3,Out of stock,40
+654,29-08-2023,Kochi,The Gunning of America: Business and the Making of American Gun Culture,Nonfiction,Five,252.15,In stock,36
+655,30-08-2023,Guwahati,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,Nonfiction,Five,423.45,Out of stock,16
+656,30-08-2023,Guwahati,The Demonists (Demonist #1),Fantasy,Three,781.65,Out of stock,13
+657,30-08-2023,Pune,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",Sequential Art,Two,418.2,Out of stock,12
+658,31-08-2023,Kochi,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),Thriller,Five,895.65,Out of stock,29
+659,01-09-2023,Pune,The Beast (Black Dagger Brotherhood #14),Fantasy,Four,691.2,Out of stock,22
+660,01-09-2023,Kochi,Some Women,Womens Fiction,Five,205.95,In stock,11
+661,01-09-2023,Guwahati,Shopaholic Ties the Knot (Shopaholic #3),Womens Fiction,Two,725.85,Out of stock,19
+662,02-09-2023,Kochi,Paper and Fire (The Great Library #2),Fantasy,Five,741.75,Out of stock,17
+663,02-09-2023,Guwahati,Outlander (Outlander #1),Philosophy,Three,295.05,In stock,11
+664,03-09-2023,Delhi,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",Music,Five,185.4,In stock,10
+665,03-09-2023,Guwahati,No One Here Gets Out Alive,Music,Two,300.3,In stock,15
+666,03-09-2023,Guwahati,Night Shift (Night Shift #1-20),Horror,Five,191.25,In stock,13
+667,03-09-2023,Ahmedabad,Needful Things,Horror,Four,712.65,In stock,15
+668,03-09-2023,Guwahati,Mockingjay (The Hunger Games #3),Philosophy,Five,306.6,In stock,20
+669,03-09-2023,Kochi,Misery,Horror,Two,521.85,In stock,12
+670,04-09-2023,Delhi,Little Women (Little Women #1),Classics,Three,421.05,In stock,22
+671,04-09-2023,Guwahati,It,Horror,Four,375.15,Out of stock,12
+672,04-09-2023,Guwahati,Harry Potter and the Sorcerer's Stone (Harry Potter #1),Philosophy,Four,208.5,Out of stock,10
+673,04-09-2023,Delhi,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),Young Adult,Two,362.55,In stock,17
+674,05-09-2023,Guwahati,Harry Potter and the Order of the Phoenix (Harry Potter #5),Fantasy,Four,474.45,Out of stock,12
+675,05-09-2023,Kochi,Harry Potter and the Half-Blood Prince (Harry Potter #6),Fantasy,Five,731.25,In stock,14
+676,05-09-2023,Guwahati,Harry Potter and the Chamber of Secrets (Harry Potter #2),Fantasy,Five,221.1,In stock,18
+677,05-09-2023,Kochi,Gone with the Wind,Classics,Five,487.35,In stock,22
+678,06-09-2023,Pune,God Is Not Great: How Religion Poisons Everything,Nonfiction,Five,417,In stock,23
+679,06-09-2023,Guwahati,Girl With a Pearl Earring,Historical Fiction,Three,401.55,Out of stock,24
+680,07-09-2023,Kochi,"Fruits Basket, Vol. 4 (Fruits Basket #4)",Sequential Art,Five,756.6,Out of stock,13
+681,08-09-2023,Kochi,Far From True (Promise Falls Trilogy #2),Thriller,Two,523.95,Out of stock,25
+682,10-09-2023,Kochi,Dark Lover (Black Dagger Brotherhood #1),Romance,Five,193.05,In stock,23
+683,10-09-2023,Ahmedabad,Confessions of a Shopaholic (Shopaholic #1),Philosophy,Five,734.1,Out of stock,25
+684,11-09-2023,Ahmedabad,Changing the Game (Play by Play #2),Romance,Two,200.7,Out of stock,15
+685,11-09-2023,Guwahati,Candide,Classics,Three,879.45,Out of stock,19
+686,12-09-2023,Kochi,Can You Keep a Secret?,Womens Fiction,Four,329.1,Out of stock,24
+687,12-09-2023,Delhi,Atlas Shrugged,Fiction,Five,398.7,In stock,17
+688,13-09-2023,Pune,Animal Farm,Classics,Three,858.3,In stock,19
+689,13-09-2023,Ahmedabad,A Walk to Remember,Romance,Five,846.45,Out of stock,14
+690,13-09-2023,Guwahati,A New Earth: Awakening to Your Life's Purpose,Spirituality,Two,834.75,In stock,18
+691,14-09-2023,Kochi,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Religion,Four,414.3,In stock,17
+692,14-09-2023,Guwahati,'Salem's Lot,Horror,Five,743.4,Out of stock,22
+693,14-09-2023,Guwahati,Zero History (Blue Ant #3),Philosophy,Two,521.55,In stock,25
+694,14-09-2023,Guwahati,Wuthering Heights,Classics,Three,265.95,In stock,11
+695,15-09-2023,Guwahati,World War Z: An Oral History of the Zombie War,Philosophy,Four,327,In stock,12
+696,15-09-2023,Guwahati,Wild: From Lost to Found on the Pacific Crest Trail,Philosophy,Four,690.3,In stock,20
+697,15-09-2023,Guwahati,"Where'd You Go, Bernadette",Philosophy,Four,271.95,In stock,23
+698,16-09-2023,Kochi,When You Are Engulfed in Flames,Humor,Three,463.35,Out of stock,21
+699,17-09-2023,Kochi,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,Nonfiction,Four,479.25,Out of stock,25
+700,17-09-2023,Ahmedabad,We Are All Completely Beside Ourselves,Contemporary,Four,360.6,Out of stock,10
+701,17-09-2023,Ahmedabad,Walk the Edge (Thunder Road #2),Young Adult,Four,485.4,In stock,23
+702,18-09-2023,Kochi,Voyager (Outlander #3),Historical Fiction,Four,316.05,Out of stock,23
+703,18-09-2023,Ahmedabad,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,Nonfiction,Four,759.9,In stock,19
+704,19-09-2023,Kochi,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,Food and Drink,Four,204.9,In stock,21
+705,19-09-2023,Guwahati,"Unstuffed: Decluttering Your Home, Mind, and Soul",Nonfiction,Two,871.35,In stock,23
+706,19-09-2023,Guwahati,Under the Banner of Heaven: A Story of Violent Faith,Nonfiction,Four,450,In stock,12
+707,19-09-2023,Kochi,Two Boys Kissing,Young Adult,Four,491.1,Out of stock,21
+708,20-09-2023,Pune,Twilight (Twilight #1),Philosophy,Five,628.95,In stock,17
+709,20-09-2023,Pune,Twenties Girl,Womens Fiction,Five,642,Out of stock,19
+710,20-09-2023,Guwahati,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",Nonfiction,Four,802.65,In stock,18
+711,21-09-2023,Kochi,Three-Martini Lunch,Fiction,Two,348.15,In stock,13
+712,21-09-2023,Guwahati,"Thinking, Fast and Slow",Psychology,Four,317.1,Out of stock,10
+713,21-09-2023,Kochi,The Wild Robot,Childrens,Five,841.05,In stock,16
+714,21-09-2023,Guwahati,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",Sequential Art,Five,216.15,Out of stock,18
+715,21-09-2023,Ahmedabad,The Undomestic Goddess,Womens Fiction,Five,686.25,Out of stock,17
+716,22-09-2023,Delhi,The Travelers,Thriller,Four,236.55,Out of stock,24
+717,22-09-2023,Delhi,The Tipping Point: How Little Things Can Make a Big Difference,Thriller,Four,150.3,In stock,18
+718,22-09-2023,Kochi,The Thing About Jellyfish,Childrens,Four,731.55,In stock,11
+719,23-09-2023,Kochi,The Stand,Horror,Four,867.9,Out of stock,16
+720,23-09-2023,Kochi,The Smitten Kitchen Cookbook,Food and Drink,Five,353.85,Out of stock,22
+721,23-09-2023,Ahmedabad,The Silkworm (Cormoran Strike #2),Mystery,Five,345.75,In stock,24
+722,23-09-2023,Kochi,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",Sequential Art,Two,833.25,Out of stock,14
+723,23-09-2023,Delhi,The Rose & the Dagger (The Wrath and the Dawn #2),Fantasy,Five,879.6,In stock,17
+724,24-09-2023,Guwahati,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),Travel,Five,348.15,In stock,23
+725,25-09-2023,Kochi,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),Biography,Four,638.55,In stock,21
+726,25-09-2023,Guwahati,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),Science Fiction,Two,163.8,Out of stock,11
+727,25-09-2023,Ahmedabad,The Rest Is Noise: Listening to the Twentieth Century,Thriller,Four,521.55,Out of stock,15
+728,26-09-2023,Kochi,The Red Tent,Historical Fiction,Five,534.9,Out of stock,19
+729,26-09-2023,Kochi,The Purpose Driven Life: What on Earth Am I Here for?,Thriller,Four,557.85,In stock,15
+730,26-09-2023,Guwahati,The Purest Hook (Second Circle Tattoos #3),Romance,Five,183.75,Out of stock,14
+731,26-09-2023,Kochi,The Picture of Dorian Gray,Classics,Five,445.5,In stock,13
+732,27-09-2023,Ahmedabad,The Paris Wife,Philosophy,Four,552,In stock,21
+733,27-09-2023,Guwahati,The Obsession,Romance,Four,681.45,Out of stock,18
+734,27-09-2023,Pune,The Nightingale,Fiction,Two,393.9,Out of stock,11
+735,28-09-2023,Guwahati,The New Guy (and Other Senior Year Distractions),Young Adult,Four,673.8,In stock,14
+736,28-09-2023,Guwahati,The Nanny Diaries (Nanny #1),Womens Fiction,Five,787.95,In stock,18
+737,29-09-2023,Delhi,The Name of God is Mercy,Nonfiction,Five,558.75,In stock,15
+738,29-09-2023,Guwahati,The Maze Runner (The Maze Runner #1),Philosophy,Four,313.95,In stock,17
+739,29-09-2023,Delhi,The Lover's Dictionary,Philosophy,Two,871.35,Out of stock,24
+740,29-09-2023,Delhi,The Lonely Ones,Childrens,Four,653.85,In stock,19
+741,29-09-2023,Kochi,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Business,Four,508.8,In stock,17
+742,30-09-2023,Pune,The Last Painting of Sara de Vos,Historical Fiction,Five,833.25,In stock,17
+743,02-10-2023,Guwahati,"The Land of 10,000 Madonnas",Young Adult,Five,444.6,In stock,11
+744,02-10-2023,Guwahati,The Infinities,Fiction,Five,411.15,Out of stock,17
+745,02-10-2023,Pune,The Husband's Secret,Fiction,Two,787.65,In stock,28
+746,03-10-2023,Guwahati,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),Thriller,Five,717,In stock,16
+747,03-10-2023,Kochi,The Guns of August,History,Five,218.1,Out of stock,26
+748,03-10-2023,Guwahati,The Guernsey Literary and Potato Peel Pie Society,Historical Fiction,Five,742.95,Out of stock,15
+749,04-10-2023,Guwahati,The Goldfinch,Philosophy,Five,653.7,In stock,21
+750,04-10-2023,Kochi,The Giver (The Giver Quartet #1),Philosophy,One,184.5,In stock,14
+751,04-10-2023,Kochi,The Girl with All the Gifts,Horror,Four,742.05,Out of stock,29
+752,04-10-2023,Guwahati,The Girl Who Played with Fire (Millennium Trilogy #2),Philosophy,Two,332.1,Out of stock,10
+753,05-10-2023,Delhi,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),Thriller,One,862.2,In stock,20
+754,05-10-2023,Ahmedabad,The Exiled,Mystery,Four,651.75,Out of stock,19
+755,06-10-2023,Guwahati,"The End of Faith: Religion, Terror, and the Future of Reason",Thriller,Four,331.95,In stock,21
+756,06-10-2023,Pune,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Science,Four,195.45,Out of stock,11
+757,06-10-2023,Guwahati,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Science,Five,860.25,Out of stock,28
+758,06-10-2023,Delhi,The Devil Wears Prada (The Devil Wears Prada #1),Womens Fiction,One,664.35,In stock,17
+759,07-10-2023,Kochi,The Demon-Haunted World: Science as a Candle in the Dark,Philosophy,Four,783.75,In stock,27
+760,07-10-2023,Guwahati,The Day the Crayons Came Home (Crayons),Childrens,Five,394.95,Out of stock,28
+761,07-10-2023,Guwahati,The Da Vinci Code (Robert Langdon #2),Fiction,Two,344.4,Out of stock,29
+762,07-10-2023,Delhi,The Cuckoo's Calling (Cormoran Strike #1),Mystery,One,288.15,Out of stock,22
+763,07-10-2023,Pune,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),Classics,Four,401.7,In stock,13
+764,08-10-2023,Kochi,The Complete Poems,Thriller,Five,619.8,Out of stock,28
+765,08-10-2023,Kochi,The Catcher in the Rye,Thriller,One,368.25,In stock,22
+766,09-10-2023,Kochi,The Cat in the Hat (Beginner Books B-1),Childrens,Two,243.9,In stock,15
+767,10-10-2023,Kochi,The Case for Christ (Cases for Christianity),Thriller,One,717.6,Out of stock,16
+768,10-10-2023,Ahmedabad,The Book Thief,Philosophy,Two,802.35,In stock,24
+769,10-10-2023,Guwahati,The Book of Basketball: The NBA According to The Sports Guy,Sports and Games,Five,672.6,In stock,19
+770,10-10-2023,Kochi,The Blind Side: Evolution of a Game,Thriller,Five,805.65,In stock,17
+771,11-10-2023,Guwahati,The Autobiography of Malcolm X,Philosophy,Two,351.45,In stock,20
+772,11-10-2023,Kochi,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",Food and Drink,Three,514.8,Out of stock,15
+773,11-10-2023,Guwahati,The Art of Fielding,Fiction,One,331.5,Out of stock,30
+774,12-10-2023,Kochi,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Science,Two,387.45,Out of stock,17
+775,13-10-2023,Pune,Stiff: The Curious Lives of Human Cadavers,Nonfiction,Three,551.1,In stock,16
+776,13-10-2023,Kochi,Spilled Milk: Based on a True Story,Nonfiction,One,742.65,Out of stock,14
+777,14-10-2023,Guwahati,Something Borrowed (Darcy & Rachel #1),Womens Fiction,Five,734.4,In stock,10
+778,14-10-2023,Delhi,Something Blue (Darcy & Rachel #2),Womens Fiction,One,819.3,In stock,19
+779,14-10-2023,Guwahati,Soldier (Talon #3),Fantasy,Two,370.8,Out of stock,14
+780,15-10-2023,Kochi,Shopaholic & Baby (Shopaholic #5),Philosophy,Two,696.75,Out of stock,28
+781,15-10-2023,Delhi,Seven Days in the Art World,Thriller,Two,784.95,In stock,11
+782,16-10-2023,Pune,Seven Brief Lessons on Physics,Science,Four,459,In stock,30
+783,16-10-2023,Pune,Scarlet (The Lunar Chronicles #2),Young Adult,Four,218.55,Out of stock,28
+784,16-10-2023,Kochi,Sarah's Key,Thriller,One,694.35,In stock,24
+785,16-10-2023,Guwahati,"Saga, Volume 3 (Saga (Collected Editions) #3)",Sequential Art,Five,323.55,Out of stock,28
+786,16-10-2023,Delhi,Running with Scissors,Autobiography,Four,193.65,Out of stock,28
+787,17-10-2023,Kochi,Rogue Lawyer (Rogue Lawyer #1),Thriller,Three,751.65,Out of stock,28
+788,17-10-2023,Kochi,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",Nonfiction,Four,625.05,Out of stock,29
+789,17-10-2023,Pune,Rework,Business,Two,673.2,In stock,18
+790,17-10-2023,Kochi,Reservations for Two,Romance,Three,166.5,In stock,17
+791,17-10-2023,Pune,Red: The True Story of Red Riding Hood,Childrens,Three,428.1,In stock,11
+792,18-10-2023,Kochi,Ready Player One,Science Fiction,Four,286.05,Out of stock,29
+793,18-10-2023,Delhi,Quiet: The Power of Introverts in a World That Can't Stop Talking,Philosophy,One,653.25,In stock,24
+794,18-10-2023,Kochi,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),Sequential Art,Three,654.45,Out of stock,27
+795,18-10-2023,Pune,Persepolis: The Story of a Childhood (Persepolis #1-2),Sequential Art,One,586.95,Out of stock,27
+796,18-10-2023,Delhi,Packing for Mars: The Curious Science of Life in the Void,Philosophy,Two,850.2,In stock,30
+797,19-10-2023,Guwahati,Outliers: The Story of Success,Nonfiction,One,212.4,In stock,20
+798,19-10-2023,Guwahati,Original Fake,Sequential Art,Three,471.75,Out of stock,18
+799,20-10-2023,Guwahati,Orange Is the New Black,Philosophy,Two,369.15,Out of stock,28
+800,20-10-2023,Guwahati,One for the Money (Stephanie Plum #1),Philosophy,Two,493.05,In stock,17
+801,20-10-2023,Guwahati,Notes from a Small Island (Notes From a Small Island #1),Nonfiction,One,602.55,In stock,13
+802,20-10-2023,Guwahati,Night (The Night Trilogy #1),Nonfiction,One,202.65,In stock,16
+803,20-10-2023,Pune,Neither Here nor There: Travels in Europe,Travel,Three,584.25,Out of stock,25
+804,21-10-2023,Ahmedabad,Naked,Humor,Three,475.35,In stock,14
+805,21-10-2023,Delhi,Morning Star (Red Rising #3),Philosophy,One,441,In stock,21
+806,21-10-2023,Guwahati,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",Nonfiction,One,867.45,In stock,13
+807,21-10-2023,Ahmedabad,Midnight Riot (Peter Grant/ Rivers of London - books #1),Fantasy,Two,831.9,In stock,10
+808,22-10-2023,Pune,Me Talk Pretty One Day,Autobiography,Two,864,Out of stock,29
+809,22-10-2023,Kochi,Manuscript Found in Accra,Thriller,Two,524.7,Out of stock,25
+810,22-10-2023,Kochi,Lust & Wonder,Autobiography,Two,178.05,Out of stock,15
+811,22-10-2023,Delhi,Lila (Gilead #3),Fiction,Three,187.05,In stock,23
+812,22-10-2023,Guwahati,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",Science Fiction,Two,498.9,In stock,27
+813,23-10-2023,Ahmedabad,Life Without a Recipe,Autobiography,Five,885.6,Out of stock,21
+814,23-10-2023,Guwahati,Life After Life,Philosophy,Two,391.95,Out of stock,23
+815,24-10-2023,Kochi,Letter to a Christian Nation,Nonfiction,One,333,Out of stock,26
+816,25-10-2023,Ahmedabad,Let's Pretend This Never Happened: A Mostly True Memoir,Nonfiction,One,676.65,Out of stock,22
+817,25-10-2023,Guwahati,Legend (Legend #1),Young Adult,Four,655.35,In stock,26
+818,25-10-2023,Kochi,"Lean In: Women, Work, and the Will to Lead",Philosophy,One,375.3,In stock,17
+819,25-10-2023,Guwahati,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Humor,Five,832.5,Out of stock,21
+820,26-10-2023,Kochi,Lady Renegades (Rebel Belle #3),Young Adult,Five,795.6,In stock,13
+821,26-10-2023,Pune,Jurassic Park (Jurassic Park #1),Fiction,One,674.55,In stock,21
+822,27-10-2023,Delhi,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,Nonfiction,One,635.7,In stock,14
+823,28-10-2023,Pune,Is Everyone Hanging Out Without Me? (And Other Concerns),Philosophy,Three,301.65,In stock,15
+824,29-10-2023,Guwahati,Into the Wild,Nonfiction,Five,850.5,In stock,20
+825,29-10-2023,Ahmedabad,Inferno (Robert Langdon #4),Fiction,Five,615,Out of stock,24
+826,29-10-2023,Kochi,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Nonfiction,Three,432.75,Out of stock,11
+827,01-11-2023,Kochi,If I Run (If I Run #1),Christian Fiction,Four,749.55,Out of stock,23
+828,01-11-2023,Kochi,I've Got Your Number,Womens Fiction,One,295.35,In stock,25
+829,01-11-2023,Kochi,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Nonfiction,Two,433.2,In stock,23
+830,01-11-2023,Kochi,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,Food and Drink,Three,497.1,In stock,21
+831,01-11-2023,Guwahati,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",History,Two,655.5,In stock,22
+832,02-11-2023,Pune,House of Leaves,Horror,One,823.35,In stock,20
+833,02-11-2023,Ahmedabad,Horrible Bear!,Childrens,Two,562.8,In stock,25
+834,02-11-2023,Delhi,Holidays on Ice,Humor,Two,766.05,In stock,21
+835,03-11-2023,Pune,Heir to the Sky,Fantasy,Four,661.05,In stock,25
+836,03-11-2023,Kochi,Green Eggs and Ham (Beginner Books B-16),Childrens,Four,161.85,In stock,22
+837,03-11-2023,Ahmedabad,"Grayson, Vol 3: Nemesis (Grayson #3)",Sequential Art,One,640.8,Out of stock,26
+838,04-11-2023,Kochi,Gratitude,Nonfiction,Five,399.9,Out of stock,26
+839,04-11-2023,Kochi,Gone Girl,Philosophy,Five,564,Out of stock,20
+840,05-11-2023,Delhi,Golden (Heart of Dread #3),Young Adult,Four,633.15,In stock,23
+841,05-11-2023,Ahmedabad,Girl in the Blue Coat,Historical Fiction,Two,702.45,In stock,25
+842,05-11-2023,Kochi,"Fruits Basket, Vol. 3 (Fruits Basket #3)",Sequential Art,Two,677.55,In stock,20
+843,06-11-2023,Ahmedabad,"Friday Night Lights: A Town, a Team, and a Dream",Sports and Games,Three,768.3,In stock,24
+844,06-11-2023,Guwahati,Fire Bound (Sea Haven/Sisters of the Heart #5),Thriller,Four,319.2,In stock,24
+845,06-11-2023,Pune,Fifty Shades Freed (Fifty Shades #3),Adult Fiction,Five,230.4,In stock,26
+846,07-11-2023,Ahmedabad,Fellside,Philosophy,One,579.3,In stock,22
+847,08-11-2023,Kochi,Extreme Prey (Lucas Davenport #26),Mystery,Three,381,In stock,26
+848,08-11-2023,Guwahati,Eragon (The Inheritance Cycle #1),Fantasy,Three,658.05,Out of stock,24
+849,08-11-2023,Guwahati,Eclipse (Twilight #3),Philosophy,One,281.1,In stock,25
+850,08-11-2023,Ahmedabad,Dune (Dune #1),Science Fiction,One,822.9,Out of stock,22
+851,08-11-2023,Delhi,Dracula,Philosophy,Three,789.3,Out of stock,26
+852,09-11-2023,Kochi,Do Androids Dream of Electric Sheep? (Blade Runner #1),Science Fiction,One,772.2,Out of stock,24
+853,09-11-2023,Kochi,Disrupted: My Misadventure in the Start-Up Bubble,Nonfiction,Five,229.2,In stock,24
+854,09-11-2023,Kochi,Dead Wake: The Last Crossing of the Lusitania,Philosophy,Five,588.6,Out of stock,21
+855,10-11-2023,Kochi,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Philosophy,One,267.15,Out of stock,23
+856,10-11-2023,Ahmedabad,Darkfever (Fever #1),Fantasy,One,840.3,In stock,22
+857,10-11-2023,Delhi,Dark Places,Philosophy,Five,358.5,Out of stock,23
+858,11-11-2023,Delhi,Crazy Rich Asians (Crazy Rich Asians #1),Fiction,Five,736.95,In stock,20
+859,11-11-2023,Guwahati,Counting Thyme,Childrens,One,159.3,In stock,21
+860,11-11-2023,Delhi,Cosmos,Thriller,Two,542.55,In stock,26
+861,12-11-2023,Guwahati,Civilization and Its Discontents,Psychology,Two,899.25,In stock,25
+862,12-11-2023,Delhi,Cinder (The Lunar Chronicles #1),Young Adult,One,391.35,In stock,26
+863,13-11-2023,Kochi,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,Parenting,Two,560.25,Out of stock,21
+864,13-11-2023,Kochi,Career of Evil (Cormoran Strike #3),Mystery,Two,370.8,In stock,24
+865,13-11-2023,Guwahati,Breaking Dawn (Twilight #4),Philosophy,Five,529.2,In stock,22
+866,13-11-2023,Kochi,Brave Enough,Nonfiction,Five,769.8,In stock,22
+867,15-11-2023,Kochi,Boy Meets Boy,Young Adult,Three,316.8,In stock,21
+868,15-11-2023,Guwahati,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Nonfiction,Two,410.25,In stock,23
+869,16-11-2023,Ahmedabad,Blink: The Power of Thinking Without Thinking,Nonfiction,Five,326.1,In stock,24
+870,16-11-2023,Guwahati,Black Flags: The Rise of ISIS,Nonfiction,One,613.05,Out of stock,21
+871,17-11-2023,Pune,"Black Butler, Vol. 1 (Black Butler #1)",Sequential Art,One,739.65,In stock,20
+872,17-11-2023,Kochi,Big Little Lies,Fiction,One,331.65,Out of stock,22
+873,17-11-2023,Ahmedabad,Between Shades of Gray,Historical Fiction,Five,311.85,In stock,22
+874,18-11-2023,Guwahati,Best of My Love (Fool's Gold #20),Romance,Two,411.15,In stock,25
+875,18-11-2023,Guwahati,Beowulf,Classics,Two,575.25,In stock,24
+876,18-11-2023,Guwahati,Beautiful Creatures (Caster Chronicles #1),Philosophy,Five,323.25,Out of stock,24
+877,18-11-2023,Guwahati,Awkward,Sequential Art,Two,570.3,In stock,25
+878,19-11-2023,Kochi,Ash,Fantasy,Four,330.9,Out of stock,25
+879,19-11-2023,Pune,Are We There Yet?,Childrens,Three,159.9,In stock,22
+880,19-11-2023,Guwahati,Are We Smart Enough to Know How Smart Animals Are?,Nonfiction,One,848.7,In stock,24
+881,19-11-2023,Pune,Annie on My Mind,Young Adult,Five,552.45,In stock,25
+882,19-11-2023,Guwahati,And Then There Were None,Classics,Two,525.15,Out of stock,24
+883,20-11-2023,Kochi,A Walk in the Woods: Rediscovering America on the Appalachian Trail,Nonfiction,Four,457.2,In stock,23
+884,20-11-2023,Guwahati,A Visit from the Goon Squad,Philosophy,Five,211.2,In stock,22
+885,20-11-2023,Guwahati,A Storm of Swords (A Song of Ice and Fire #3),Fantasy,Two,468.3,In stock,23
+886,21-11-2023,Kochi,A Heartbreaking Work of Staggering Genius,Autobiography,Five,814.35,Out of stock,22
+887,21-11-2023,Delhi,8 Keys to Mental Health Through Exercise,Psychology,One,465.6,Out of stock,25
+888,21-11-2023,Guwahati,#GIRLBOSS,Thriller,One,764.4,Out of stock,20
+889,22-11-2023,Kochi,"The Suffragettes (Little Black Classics, #96)",Nonfiction,Two,178.35,In stock,24
+890,22-11-2023,Guwahati,The Sense of an Ending,Thriller,Three,470.7,Out of stock,24
+891,22-11-2023,Guwahati,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",Sequential Art,One,822.15,Out of stock,24
+892,22-11-2023,Ahmedabad,The Course of Love,Fiction,Three,251.7,Out of stock,23
+893,22-11-2023,Guwahati,Sugar Rush (Offensive Line #2),Sports and Games,One,366.3,Out of stock,26
+894,22-11-2023,Kochi,"Saga, Volume 2 (Saga (Collected Editions) #2)",Sequential Art,Three,176.25,In stock,24
+895,22-11-2023,Ahmedabad,"Run, Spot, Run: The Ethics of Keeping Pets",Philosophy,One,300.3,In stock,24
+896,22-11-2023,Delhi,New Moon (Twilight #2),Young Adult,Four,192.9,In stock,23
+897,23-11-2023,Kochi,Life,Music,Five,473.7,Out of stock,25
+898,23-11-2023,Ahmedabad,Kindle Paperwhite User's Guide,Nonfiction,Three,510,Out of stock,24
+899,23-11-2023,Guwahati,H is for Hawk,Nonfiction,Five,861.3,Out of stock,23
+900,23-11-2023,Delhi,Girl Online On Tour (Girl Online #2),Young Adult,One,802.05,In stock,24
+901,24-11-2023,Pune,"Fruits Basket, Vol. 2 (Fruits Basket #2)",Sequential Art,Five,174.6,Out of stock,22
+902,24-11-2023,Ahmedabad,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),Childrens,Four,793.2,Out of stock,25
+903,24-11-2023,Ahmedabad,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",Sequential Art,Four,277.65,Out of stock,24
+904,24-11-2023,Pune,While You Were Mine,Historical Fiction,Five,619.8,In stock,21
+905,24-11-2023,Kochi,Where Lightning Strikes (Bleeding Stars #3),Romance,Three,596.55,In stock,20
+906,24-11-2023,Pune,When I'm Gone,Fiction,Three,779.4,Out of stock,25
+907,25-11-2023,Guwahati,Ways of Seeing,Art,Five,592.65,Out of stock,20
+908,25-11-2023,Guwahati,"Vampire Knight, Vol. 1 (Vampire Knight #1)",Paranormal,One,231,Out of stock,23
+909,25-11-2023,Delhi,Vampire Girl (Vampire Girl #1),Fantasy,Two,807.3,Out of stock,25
+910,25-11-2023,Ahmedabad,Twenty Love Poems and a Song of Despair,Poetry,Four,464.25,Out of stock,25
+911,26-11-2023,Pune,Travels with Charley: In Search of America,Nonfiction,Five,867.3,In stock,26
+912,26-11-2023,Kochi,Three Wishes (River of Time: California #1),Science Fiction,Two,662.7,In stock,20
+913,26-11-2023,Pune,This One Moment (Pushing Limits #1),Romance,One,730.65,Out of stock,20
+914,26-11-2023,Delhi,The Zombie Room,Philosophy,Five,295.35,Out of stock,25
+915,26-11-2023,Pune,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",Sequential Art,Two,547.8,Out of stock,20
+916,26-11-2023,Guwahati,The Tumor,Nonfiction,Five,623.4,Out of stock,21
+917,27-11-2023,Guwahati,The Story of Hong Gildong,Classics,Four,647.85,In stock,24
+918,27-11-2023,Pune,The Silent Wife,Fiction,Five,185.1,Out of stock,20
+919,27-11-2023,Pune,The Silent Twin (Detective Jennifer Knight #3),Fantasy,Three,543.75,Out of stock,21
+920,29-11-2023,Ahmedabad,The Selfish Gene,Science,One,441.75,In stock,20
+921,29-11-2023,Guwahati,The Secret Healer,Historical Fiction,Three,518.4,Out of stock,22
+922,29-11-2023,Ahmedabad,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",Sequential Art,Three,811.8,Out of stock,24
+923,29-11-2023,Ahmedabad,The Republic,Thriller,Three,506.7,In stock,22
+924,29-11-2023,Delhi,The Odyssey,Thriller,Three,444.6,Out of stock,23
+925,29-11-2023,Kochi,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),Mystery,Four,865.5,In stock,20
+926,30-11-2023,Pune,The Nicomachean Ethics,Philosophy,One,545.1,Out of stock,26
+927,01-12-2023,Kochi,The Name of the Wind (The Kingkiller Chronicle #1),Philosophy,Three,758.85,In stock,40
+928,01-12-2023,Guwahati,The Mirror & the Maze (The Wrath and the Dawn #1.5),Fantasy,One,440.7,In stock,34
+929,01-12-2023,Guwahati,The Little Prince,Classics,Two,681.3,Out of stock,45
+930,02-12-2023,Kochi,The Light of the Fireflies,Thriller,One,816.45,Out of stock,30
+931,02-12-2023,Guwahati,The Last Girl (The Dominion Trilogy #1),Science Fiction,Two,543.9,In stock,41
+932,02-12-2023,Kochi,The Iliad,Thriller,One,242.4,Out of stock,42
+933,03-12-2023,Guwahati,The Hook Up (Game On #1),New Adult,Five,544.35,Out of stock,44
+934,04-12-2023,Ahmedabad,The Haters,Young Adult,Five,418.35,Out of stock,39
+935,04-12-2023,Kochi,The Girl You Lost,Mystery,Five,184.35,Out of stock,34
+936,04-12-2023,Guwahati,The Girl In The Ice (DCI Erika Foster #1),Mystery,Three,237.75,Out of stock,37
+937,04-12-2023,Guwahati,The End of the Jesus Era (An Investigation #1),Nonfiction,One,216,Out of stock,32
+938,04-12-2023,Pune,The Edge of Reason (Bridget Jones #2),Womens Fiction,Four,287.7,In stock,34
+939,05-12-2023,Kochi,The Complete Maus (Maus #1-2),Sequential Art,Three,159.6,Out of stock,36
+940,06-12-2023,Kochi,The Communist Manifesto,Thriller,Three,221.4,Out of stock,37
+941,06-12-2023,Delhi,The Bhagavad Gita,Religion,Three,862.35,In stock,45
+942,07-12-2023,Guwahati,The Bette Davis Club,Fiction,Three,459.9,In stock,32
+943,07-12-2023,Pune,The Art of Not Breathing,Young Adult,Four,612.45,In stock,37
+944,07-12-2023,Kochi,Taking Shots (Assassins #1),Philosophy,Two,283.2,Out of stock,35
+945,08-12-2023,Delhi,Starlark,Historical Fiction,Three,387.45,Out of stock,38
+946,08-12-2023,Kochi,"Skip Beat!, Vol. 01 (Skip Beat! #1)",Sequential Art,Three,631.8,In stock,37
+947,08-12-2023,Pune,Sister Sable (The Mad Queen #1),Fantasy,Three,199.95,In stock,42
+948,09-12-2023,Guwahati,Shatter Me (Shatter Me #1),Philosophy,One,636,Out of stock,34
+949,09-12-2023,Kochi,Shameless,New Adult,Three,875.25,Out of stock,41
+950,10-12-2023,Kochi,Shadow Rites (Jane Yellowrock #10),Fantasy,Four,325.8,Out of stock,45
+951,10-12-2023,Guwahati,Settling the Score (The Summer Games #1),Sports and Games,Two,673.65,In stock,35
+952,10-12-2023,Pune,Sense and Sensibility,Classics,One,561.9,In stock,40
+953,11-12-2023,Ahmedabad,"Saga, Volume 1 (Saga (Collected Editions) #1)",Sequential Art,One,427.2,In stock,35
+954,11-12-2023,Pune,"Rhythm, Chord & Malykhin",Romance,Two,425.1,Out of stock,43
+955,13-12-2023,Guwahati,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",Sequential Art,Five,704.4,In stock,30
+956,13-12-2023,Ahmedabad,Paradise Lost (Paradise #1),Philosophy,One,374.4,Out of stock,30
+957,13-12-2023,Kochi,"Paper Girls, Vol. 1 (Paper Girls #1-5)",Sequential Art,Four,325.65,Out of stock,37
+958,13-12-2023,Ahmedabad,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",Sequential Art,Three,448.05,In stock,41
+959,13-12-2023,Guwahati,Origins (Alphas 0.5),Fantasy,One,434.85,In stock,44
+960,14-12-2023,Guwahati,One Second (Seven #7),Fantasy,Two,794.1,In stock,39
+961,14-12-2023,Ahmedabad,On the Road (Duluoz Legend),Philosophy,Three,485.4,In stock,34
+962,15-12-2023,Pune,Old Records Never Die: One Man's Quest for His Vinyl and His Past,Music,Two,834.9,Out of stock,44
+963,15-12-2023,Kochi,Off Sides (Off #1),New Adult,Five,591.75,Out of stock,36
+964,15-12-2023,Kochi,Of Mice and Men,Classics,Two,706.65,In stock,34
+965,16-12-2023,Delhi,Myriad (Prentor #1),Fantasy,Four,881.25,Out of stock,33
+966,16-12-2023,Delhi,My Perfect Mistake (Over the Top #1),Romance,Two,583.8,Out of stock,41
+967,16-12-2023,Guwahati,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",Sequential Art,Four,590.85,In stock,40
+968,16-12-2023,Guwahati,Meditations,Philosophy,Two,388.35,Out of stock,32
+969,17-12-2023,Pune,Matilda,Childrens,One,425.1,In stock,39
+970,18-12-2023,Delhi,Lost Among the Living,Historical Fiction,Four,415.5,Out of stock,36
+971,19-12-2023,Pune,Lord of the Flies,Thriller,Three,373.35,Out of stock,44
+972,20-12-2023,Guwahati,Listen to Me (Fusion #1),Romance,Three,884.85,In stock,33
+973,21-12-2023,Guwahati,Kitchens of the Great Midwest,Fiction,Five,858,In stock,39
+974,22-12-2023,Guwahati,Jane Eyre,Philosophy,Five,576.45,Out of stock,42
+975,22-12-2023,Ahmedabad,Imperfect Harmony,Romance,Four,521.1,In stock,39
+976,23-12-2023,Pune,Icing (Aces Hockey #2),Sports and Games,Four,606.6,Out of stock,37
+977,23-12-2023,Kochi,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",Sequential Art,Three,678.6,In stock,36
+978,23-12-2023,Delhi,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),Science Fiction,Four,524.4,Out of stock,32
+979,23-12-2023,Kochi,"Giant Days, Vol. 1 (Giant Days #1-4)",Sequential Art,Four,851.4,Out of stock,39
+980,23-12-2023,Delhi,"Fruits Basket, Vol. 1 (Fruits Basket #1)",Sequential Art,Five,604.2,Out of stock,44
+981,23-12-2023,Kochi,Frankenstein,Philosophy,Two,570,In stock,30
+982,23-12-2023,Guwahati,Forever Rockers (The Rocker #12),Music,Three,432,In stock,33
+983,23-12-2023,Delhi,Fighting Fate (Fighting #6),Romance,Three,588.6,Out of stock,32
+984,24-12-2023,Guwahati,Emma,Classics,Two,493.95,Out of stock,40
+985,24-12-2023,Kochi,"Eat, Pray, Love",Nonfiction,Three,769.8,Out of stock,38
+986,24-12-2023,Kochi,Deep Under (Walker Security #1),Romance,Five,706.35,Out of stock,35
+987,25-12-2023,Kochi,Choosing Our Religion: The Spiritual Lives of America's Nones,Religion,Four,426.3,In stock,30
+988,26-12-2023,Guwahati,Charlie and the Chocolate Factory (Charlie Bucket #1),Childrens,Three,342.75,Out of stock,41
+989,27-12-2023,Kochi,Charity's Cross (Charles Towne Belles #4),Romance,One,618.6,Out of stock,32
+990,27-12-2023,Delhi,Bright Lines,Fiction,Five,586.05,Out of stock,36
+991,28-12-2023,Kochi,Bridget Jones's Diary (Bridget Jones #1),Womens Fiction,One,447.3,Out of stock,41
+992,28-12-2023,Kochi,Bounty (Colorado Mountain #7),Romance,Four,558.9,In stock,32
+993,28-12-2023,Pune,Blood Defense (Samantha Brinkman #1),Mystery,Three,304.5,Out of stock,34
+994,29-12-2023,Pune,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",Sequential Art,Five,519.75,Out of stock,32
+995,29-12-2023,Pune,Beyond Good and Evil,Philosophy,One,650.7,In stock,43
+996,29-12-2023,Pune,Alice in Wonderland (Alice's Adventures in Wonderland #1),Classics,One,832.95,In stock,35
+997,29-12-2023,Guwahati,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",Sequential Art,Four,855.9,Out of stock,31
+998,31-12-2023,Ahmedabad,A Spy's Devotion (The Regency Spies of London #1),Historical Fiction,Five,254.55,Out of stock,40
+999,31-12-2023,Kochi,1st to Die (Women's Murder Club #1),Mystery,One,809.7,In stock,30
+1000,31-12-2023,Delhi,"1,000 Places to See Before You Die",Travel,Five,391.2,In stock,41
