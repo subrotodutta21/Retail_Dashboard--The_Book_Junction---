@@ -1,4 +1,4 @@
-# The Book Junction - Sales Dashboard
+# The Book Junction - Retail Dashboard
 
 ![image](https://github.com/user-attachments/assets/b60c12e9-8015-43bd-8f90-9b02f5160094)
 
